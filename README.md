@@ -3,7 +3,7 @@
 > **Work in Progress** <br>
 > TsLM is early-stage and under active development. Core components are being wired together, so expect frequent updates and structural changes.
 
-TsLM is a lightweight model experiment built around local performance and modular architecture. Instead of throwing billions if not trillions of parameters at general tasks. The focus here is fast, deterministic handling of specific workflows on everyday hardware. If implemented properly, technology such as this could heavily optimize the performance of LLMs by offloading the core knowledge and thinking used in responses to much faster and more expansive methods, heavily decrease hallucination rates, and increase scalability. 
+TsLM is a lightweight model experiment built around local performance and factual accuracy. Instead of throwing billions if not trillions of parameters at general tasks. The focus here is fast, deterministic handling of specific workflows on everyday hardware. If implemented properly, technology such as this could heavily optimize the performance of LLMs by offloading the core knowledge and thinking used in responses to much faster and more expansive methods, heavily decrease hallucination rates, and increase scalability. 
 
 ---
 

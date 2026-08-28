@@ -38,4 +38,3 @@ To get the full pipeline operational, the immediate focus is:
    Defining clean templates to turn queried graph data into structured, readable end-user responses.
 
 ---
->>>>>>> master

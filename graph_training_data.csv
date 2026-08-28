@@ -1,0 +1,2001 @@
+A,RELATION,B,WEIGHT
+Dog,isA,Mammal,0.95
+Dog,isA,Animal,0.9
+Cat,isA,Mammal,0.95
+Cat,isA,Animal,0.9
+Whale,isA,Mammal,0.95
+Whale,isA,Animal,0.9
+Dolphin,isA,Mammal,0.95
+Dolphin,isA,Animal,0.9
+Elephant,isA,Mammal,0.95
+Elephant,isA,Animal,0.9
+Lion,isA,Mammal,0.95
+Lion,isA,Animal,0.9
+Tiger,isA,Mammal,0.95
+Tiger,isA,Animal,0.9
+Horse,isA,Mammal,0.95
+Horse,isA,Animal,0.9
+Bat,isA,Mammal,0.95
+Bat,isA,Animal,0.9
+Kangaroo,isA,Mammal,0.95
+Kangaroo,isA,Animal,0.9
+Human,isA,Mammal,0.95
+Human,isA,Animal,0.9
+Gorilla,isA,Mammal,0.95
+Gorilla,isA,Animal,0.9
+Chimpanzee,isA,Mammal,0.95
+Chimpanzee,isA,Animal,0.9
+Rabbit,isA,Mammal,0.95
+Rabbit,isA,Animal,0.9
+Mouse,isA,Mammal,0.95
+Mouse,isA,Animal,0.9
+Wolf,isA,Mammal,0.95
+Wolf,isA,Animal,0.9
+Bear,isA,Mammal,0.95
+Bear,isA,Animal,0.9
+Giraffe,isA,Mammal,0.95
+Giraffe,isA,Animal,0.9
+Zebra,isA,Mammal,0.95
+Zebra,isA,Animal,0.9
+Platypus,isA,Mammal,0.95
+Platypus,isA,Animal,0.9
+Eagle,isA,Bird,0.95
+Eagle,isA,Animal,0.9
+Penguin,isA,Bird,0.95
+Penguin,isA,Animal,0.9
+Ostrich,isA,Bird,0.95
+Ostrich,isA,Animal,0.9
+Sparrow,isA,Bird,0.95
+Sparrow,isA,Animal,0.9
+Owl,isA,Bird,0.95
+Owl,isA,Animal,0.9
+Parrot,isA,Bird,0.95
+Parrot,isA,Animal,0.9
+Flamingo,isA,Bird,0.95
+Flamingo,isA,Animal,0.9
+Hummingbird,isA,Bird,0.95
+Hummingbird,isA,Animal,0.9
+Crow,isA,Bird,0.95
+Crow,isA,Animal,0.9
+Peacock,isA,Bird,0.95
+Peacock,isA,Animal,0.9
+Swan,isA,Bird,0.95
+Swan,isA,Animal,0.9
+Falcon,isA,Bird,0.95
+Falcon,isA,Animal,0.9
+Salmon,isA,Fish,0.95
+Salmon,isA,Animal,0.9
+Shark,isA,Fish,0.95
+Shark,isA,Animal,0.9
+Goldfish,isA,Fish,0.95
+Goldfish,isA,Animal,0.9
+Tuna,isA,Fish,0.95
+Tuna,isA,Animal,0.9
+Clownfish,isA,Fish,0.95
+Clownfish,isA,Animal,0.9
+Catfish,isA,Fish,0.95
+Catfish,isA,Animal,0.9
+Eel,isA,Fish,0.95
+Eel,isA,Animal,0.9
+Seahorse,isA,Fish,0.95
+Seahorse,isA,Animal,0.9
+Snake,isA,Reptile,0.95
+Snake,isA,Animal,0.9
+Lizard,isA,Reptile,0.95
+Lizard,isA,Animal,0.9
+Crocodile,isA,Reptile,0.95
+Crocodile,isA,Animal,0.9
+Turtle,isA,Reptile,0.95
+Turtle,isA,Animal,0.9
+Alligator,isA,Reptile,0.95
+Alligator,isA,Animal,0.9
+Chameleon,isA,Reptile,0.95
+Chameleon,isA,Animal,0.9
+Gecko,isA,Reptile,0.95
+Gecko,isA,Animal,0.9
+Iguana,isA,Reptile,0.95
+Iguana,isA,Animal,0.9
+Frog,isA,Amphibian,0.95
+Frog,isA,Animal,0.9
+Toad,isA,Amphibian,0.95
+Toad,isA,Animal,0.9
+Salamander,isA,Amphibian,0.95
+Salamander,isA,Animal,0.9
+Newt,isA,Amphibian,0.95
+Newt,isA,Animal,0.9
+Ant,isA,Insect,0.95
+Ant,isA,Animal,0.9
+Bee,isA,Insect,0.95
+Bee,isA,Animal,0.9
+Butterfly,isA,Insect,0.95
+Butterfly,isA,Animal,0.9
+Beetle,isA,Insect,0.95
+Beetle,isA,Animal,0.9
+Grasshopper,isA,Insect,0.95
+Grasshopper,isA,Animal,0.9
+Mosquito,isA,Insect,0.95
+Mosquito,isA,Animal,0.9
+Dragonfly,isA,Insect,0.95
+Dragonfly,isA,Animal,0.9
+Termite,isA,Insect,0.95
+Termite,isA,Animal,0.9
+Spider,isA,Arachnid,0.95
+Spider,isA,Animal,0.9
+Scorpion,isA,Arachnid,0.95
+Scorpion,isA,Animal,0.9
+Tick,isA,Arachnid,0.95
+Tick,isA,Animal,0.9
+Octopus,isA,Cephalopod,0.95
+Octopus,isA,Animal,0.9
+Squid,isA,Cephalopod,0.95
+Squid,isA,Animal,0.9
+Crab,isA,Crustacean,0.95
+Crab,isA,Animal,0.9
+Lobster,isA,Crustacean,0.95
+Lobster,isA,Animal,0.9
+Shrimp,isA,Crustacean,0.95
+Shrimp,isA,Animal,0.9
+Jellyfish,isA,Cnidarian,0.95
+Jellyfish,isA,Animal,0.9
+Coral,isA,Cnidarian,0.95
+Coral,isA,Animal,0.9
+Snail,isA,Mollusk,0.95
+Snail,isA,Animal,0.9
+Clam,isA,Mollusk,0.95
+Clam,isA,Animal,0.9
+Oyster,isA,Mollusk,0.95
+Oyster,isA,Animal,0.9
+Earthworm,isA,Annelid,0.95
+Earthworm,isA,Animal,0.9
+Starfish,isA,Echinoderm,0.95
+Starfish,isA,Animal,0.9
+Sea Urchin,isA,Echinoderm,0.95
+Sea Urchin,isA,Animal,0.9
+Camel,isA,Mammal,0.95
+Camel,isA,Animal,0.9
+Hippopotamus,isA,Mammal,0.95
+Hippopotamus,isA,Animal,0.9
+Rhinoceros,isA,Mammal,0.95
+Rhinoceros,isA,Animal,0.9
+Panda,isA,Mammal,0.95
+Panda,isA,Animal,0.9
+Koala,isA,Mammal,0.95
+Koala,isA,Animal,0.9
+Otter,isA,Mammal,0.95
+Otter,isA,Animal,0.9
+Beaver,isA,Mammal,0.95
+Beaver,isA,Animal,0.9
+Squirrel,isA,Mammal,0.95
+Squirrel,isA,Animal,0.9
+Deer,isA,Mammal,0.95
+Deer,isA,Animal,0.9
+Moose,isA,Mammal,0.95
+Moose,isA,Animal,0.9
+Bison,isA,Mammal,0.95
+Bison,isA,Animal,0.9
+Raccoon,isA,Mammal,0.95
+Raccoon,isA,Animal,0.9
+Skunk,isA,Mammal,0.95
+Skunk,isA,Animal,0.9
+Hedgehog,isA,Mammal,0.95
+Hedgehog,isA,Animal,0.9
+Meerkat,isA,Mammal,0.95
+Meerkat,isA,Animal,0.9
+Seal,isA,Mammal,0.95
+Seal,isA,Animal,0.9
+Walrus,isA,Mammal,0.95
+Walrus,isA,Animal,0.9
+Manatee,isA,Mammal,0.95
+Manatee,isA,Animal,0.9
+Fox,isA,Mammal,0.95
+Fox,isA,Animal,0.9
+Cow,isA,Mammal,0.95
+Cow,isA,Animal,0.9
+Pig,isA,Mammal,0.95
+Pig,isA,Animal,0.9
+Sheep,isA,Mammal,0.95
+Sheep,isA,Animal,0.9
+Goat,isA,Mammal,0.95
+Goat,isA,Animal,0.9
+Llama,isA,Mammal,0.95
+Llama,isA,Animal,0.9
+Alpaca,isA,Mammal,0.95
+Alpaca,isA,Animal,0.9
+Toucan,isA,Bird,0.95
+Toucan,isA,Animal,0.9
+Woodpecker,isA,Bird,0.95
+Woodpecker,isA,Animal,0.9
+Pelican,isA,Bird,0.95
+Pelican,isA,Animal,0.9
+Seagull,isA,Bird,0.95
+Seagull,isA,Animal,0.9
+Robin,isA,Bird,0.95
+Robin,isA,Animal,0.9
+Cardinal,isA,Bird,0.95
+Cardinal,isA,Animal,0.9
+Blue Jay,isA,Bird,0.95
+Blue Jay,isA,Animal,0.9
+Kingfisher,isA,Bird,0.95
+Kingfisher,isA,Animal,0.9
+Vulture,isA,Bird,0.95
+Vulture,isA,Animal,0.9
+Hawk,isA,Bird,0.95
+Hawk,isA,Animal,0.9
+Heron,isA,Bird,0.95
+Heron,isA,Animal,0.9
+Stork,isA,Bird,0.95
+Stork,isA,Animal,0.9
+Swordfish,isA,Fish,0.95
+Swordfish,isA,Animal,0.9
+Anglerfish,isA,Fish,0.95
+Anglerfish,isA,Animal,0.9
+Pufferfish,isA,Fish,0.95
+Pufferfish,isA,Animal,0.9
+Flounder,isA,Fish,0.95
+Flounder,isA,Animal,0.9
+Marlin,isA,Fish,0.95
+Marlin,isA,Animal,0.9
+Stingray,isA,Fish,0.95
+Stingray,isA,Animal,0.9
+Guppy,isA,Fish,0.95
+Guppy,isA,Animal,0.9
+Komodo Dragon,isA,Reptile,0.95
+Komodo Dragon,isA,Animal,0.9
+Cobra,isA,Reptile,0.95
+Cobra,isA,Animal,0.9
+Python,isA,Reptile,0.95
+Python,isA,Animal,0.9
+Viper,isA,Reptile,0.95
+Viper,isA,Animal,0.9
+Tortoise,isA,Reptile,0.95
+Tortoise,isA,Animal,0.9
+Axolotl,isA,Amphibian,0.95
+Axolotl,isA,Animal,0.9
+Ladybug,isA,Insect,0.95
+Ladybug,isA,Animal,0.9
+Cricket,isA,Insect,0.95
+Cricket,isA,Animal,0.9
+Moth,isA,Insect,0.95
+Moth,isA,Animal,0.9
+Firefly,isA,Insect,0.95
+Firefly,isA,Animal,0.9
+Cicada,isA,Insect,0.95
+Cicada,isA,Animal,0.9
+Praying Mantis,isA,Insect,0.95
+Praying Mantis,isA,Animal,0.9
+Amphibian,isA,Animal,0.9
+Annelid,isA,Animal,0.9
+Arachnid,isA,Animal,0.9
+Bird,isA,Animal,0.9
+Cephalopod,isA,Animal,0.9
+Cnidarian,isA,Animal,0.9
+Crustacean,isA,Animal,0.9
+Echinoderm,isA,Animal,0.9
+Fish,isA,Animal,0.9
+Insect,isA,Animal,0.9
+Mammal,isA,Animal,0.9
+Mollusk,isA,Animal,0.9
+Reptile,isA,Animal,0.9
+Hydrogen,isA,Nonmetal,0.95
+Hydrogen,isA,Chemical Element,1.0
+Hydrogen,isA,Matter,0.85
+Helium,isA,Noble Gas,0.95
+Helium,isA,Chemical Element,1.0
+Helium,isA,Matter,0.85
+Lithium,isA,Alkali Metal,0.95
+Lithium,isA,Chemical Element,1.0
+Lithium,isA,Matter,0.85
+Beryllium,isA,Alkaline Earth Metal,0.95
+Beryllium,isA,Chemical Element,1.0
+Beryllium,isA,Matter,0.85
+Carbon,isA,Nonmetal,0.95
+Carbon,isA,Chemical Element,1.0
+Carbon,isA,Matter,0.85
+Nitrogen,isA,Nonmetal,0.95
+Nitrogen,isA,Chemical Element,1.0
+Nitrogen,isA,Matter,0.85
+Oxygen,isA,Nonmetal,0.95
+Oxygen,isA,Chemical Element,1.0
+Oxygen,isA,Matter,0.85
+Fluorine,isA,Halogen,0.95
+Fluorine,isA,Chemical Element,1.0
+Fluorine,isA,Matter,0.85
+Neon,isA,Noble Gas,0.95
+Neon,isA,Chemical Element,1.0
+Neon,isA,Matter,0.85
+Sodium,isA,Alkali Metal,0.95
+Sodium,isA,Chemical Element,1.0
+Sodium,isA,Matter,0.85
+Magnesium,isA,Alkaline Earth Metal,0.95
+Magnesium,isA,Chemical Element,1.0
+Magnesium,isA,Matter,0.85
+Aluminum,isA,Metal,0.95
+Aluminum,isA,Chemical Element,1.0
+Aluminum,isA,Matter,0.85
+Silicon,isA,Metalloid,0.95
+Silicon,isA,Chemical Element,1.0
+Silicon,isA,Matter,0.85
+Phosphorus,isA,Nonmetal,0.95
+Phosphorus,isA,Chemical Element,1.0
+Phosphorus,isA,Matter,0.85
+Sulfur,isA,Nonmetal,0.95
+Sulfur,isA,Chemical Element,1.0
+Sulfur,isA,Matter,0.85
+Chlorine,isA,Halogen,0.95
+Chlorine,isA,Chemical Element,1.0
+Chlorine,isA,Matter,0.85
+Argon,isA,Noble Gas,0.95
+Argon,isA,Chemical Element,1.0
+Argon,isA,Matter,0.85
+Potassium,isA,Alkali Metal,0.95
+Potassium,isA,Chemical Element,1.0
+Potassium,isA,Matter,0.85
+Calcium,isA,Alkaline Earth Metal,0.95
+Calcium,isA,Chemical Element,1.0
+Calcium,isA,Matter,0.85
+Iron,isA,Metal,0.95
+Iron,isA,Chemical Element,1.0
+Iron,isA,Matter,0.85
+Copper,isA,Metal,0.95
+Copper,isA,Chemical Element,1.0
+Copper,isA,Matter,0.85
+Zinc,isA,Metal,0.95
+Zinc,isA,Chemical Element,1.0
+Zinc,isA,Matter,0.85
+Silver,isA,Metal,0.95
+Silver,isA,Chemical Element,1.0
+Silver,isA,Matter,0.85
+Gold,isA,Metal,0.95
+Gold,isA,Chemical Element,1.0
+Gold,isA,Matter,0.85
+Mercury,isA,Metal,0.95
+Mercury,isA,Chemical Element,1.0
+Mercury,isA,Matter,0.85
+Lead,isA,Metal,0.95
+Lead,isA,Chemical Element,1.0
+Lead,isA,Matter,0.85
+Tin,isA,Metal,0.95
+Tin,isA,Chemical Element,1.0
+Tin,isA,Matter,0.85
+Nickel,isA,Metal,0.95
+Nickel,isA,Chemical Element,1.0
+Nickel,isA,Matter,0.85
+Platinum,isA,Metal,0.95
+Platinum,isA,Chemical Element,1.0
+Platinum,isA,Matter,0.85
+Titanium,isA,Metal,0.95
+Titanium,isA,Chemical Element,1.0
+Titanium,isA,Matter,0.85
+Chromium,isA,Metal,0.95
+Chromium,isA,Chemical Element,1.0
+Chromium,isA,Matter,0.85
+Manganese,isA,Metal,0.95
+Manganese,isA,Chemical Element,1.0
+Manganese,isA,Matter,0.85
+Arsenic,isA,Metalloid,0.95
+Arsenic,isA,Chemical Element,1.0
+Arsenic,isA,Matter,0.85
+Boron,isA,Metalloid,0.95
+Boron,isA,Chemical Element,1.0
+Boron,isA,Matter,0.85
+Germanium,isA,Metalloid,0.95
+Germanium,isA,Chemical Element,1.0
+Germanium,isA,Matter,0.85
+Bromine,isA,Halogen,0.95
+Bromine,isA,Chemical Element,1.0
+Bromine,isA,Matter,0.85
+Iodine,isA,Halogen,0.95
+Iodine,isA,Chemical Element,1.0
+Iodine,isA,Matter,0.85
+Krypton,isA,Noble Gas,0.95
+Krypton,isA,Chemical Element,1.0
+Krypton,isA,Matter,0.85
+Xenon,isA,Noble Gas,0.95
+Xenon,isA,Chemical Element,1.0
+Xenon,isA,Matter,0.85
+Radon,isA,Noble Gas,0.95
+Radon,isA,Chemical Element,1.0
+Radon,isA,Matter,0.85
+Uranium,isA,Metal,0.95
+Uranium,isA,Chemical Element,1.0
+Uranium,isA,Matter,0.85
+Cobalt,isA,Metal,0.95
+Cobalt,isA,Chemical Element,1.0
+Cobalt,isA,Matter,0.85
+Tungsten,isA,Metal,0.95
+Tungsten,isA,Chemical Element,1.0
+Tungsten,isA,Matter,0.85
+Barium,isA,Alkaline Earth Metal,0.95
+Barium,isA,Chemical Element,1.0
+Barium,isA,Matter,0.85
+Cesium,isA,Alkali Metal,0.95
+Cesium,isA,Chemical Element,1.0
+Cesium,isA,Matter,0.85
+Radium,isA,Alkaline Earth Metal,0.95
+Radium,isA,Chemical Element,1.0
+Radium,isA,Matter,0.85
+Alkali Metal,isA,Chemical Element Category,0.8
+Alkaline Earth Metal,isA,Chemical Element Category,0.8
+Halogen,isA,Chemical Element Category,0.8
+Metal,isA,Chemical Element Category,0.8
+Metalloid,isA,Chemical Element Category,0.8
+Noble Gas,isA,Chemical Element Category,0.8
+Nonmetal,isA,Chemical Element Category,0.8
+Mercury,isA,Planet,1.0
+Mercury,isA,Celestial Body,0.9
+Venus,isA,Planet,1.0
+Venus,isA,Celestial Body,0.9
+Earth,isA,Planet,1.0
+Earth,isA,Celestial Body,0.9
+Mars,isA,Planet,1.0
+Mars,isA,Celestial Body,0.9
+Jupiter,isA,Planet,1.0
+Jupiter,isA,Celestial Body,0.9
+Saturn,isA,Planet,1.0
+Saturn,isA,Celestial Body,0.9
+Uranus,isA,Planet,1.0
+Uranus,isA,Celestial Body,0.9
+Neptune,isA,Planet,1.0
+Neptune,isA,Celestial Body,0.9
+Planet,isA,Celestial Body,0.9
+Pluto,isA,Dwarf Planet,0.95
+Pluto,isA,Celestial Body,0.9
+Ceres,isA,Dwarf Planet,0.95
+Ceres,isA,Celestial Body,0.9
+Eris,isA,Dwarf Planet,0.95
+Eris,isA,Celestial Body,0.9
+Makemake,isA,Dwarf Planet,0.95
+Makemake,isA,Celestial Body,0.9
+Haumea,isA,Dwarf Planet,0.95
+Haumea,isA,Celestial Body,0.9
+Dwarf Planet,isA,Celestial Body,0.9
+Square,isA,Quadrilateral,0.95
+Square,isA,Shape,0.9
+Rectangle,isA,Quadrilateral,0.95
+Rectangle,isA,Shape,0.9
+Rhombus,isA,Quadrilateral,0.95
+Rhombus,isA,Shape,0.9
+Triangle,isA,Polygon,0.95
+Triangle,isA,Shape,0.9
+Pentagon,isA,Polygon,0.95
+Pentagon,isA,Shape,0.9
+Hexagon,isA,Polygon,0.95
+Hexagon,isA,Shape,0.9
+Circle,isA,Conic Section,0.95
+Circle,isA,Shape,0.9
+Cube,isA,Polyhedron,0.95
+Cube,isA,Shape,0.9
+Sphere,isA,3D Shape,0.95
+Sphere,isA,Shape,0.9
+Cylinder,isA,3D Shape,0.95
+Cylinder,isA,Shape,0.9
+Cone,isA,3D Shape,0.95
+Cone,isA,Shape,0.9
+Pyramid,isA,Polyhedron,0.95
+Pyramid,isA,Shape,0.9
+3D Shape,isA,Shape,0.9
+Conic Section,isA,Shape,0.9
+Polygon,isA,Shape,0.9
+Polyhedron,isA,Shape,0.9
+Quadrilateral,isA,Shape,0.9
+Surgeon,isA,Doctor,0.9
+Surgeon,isA,Profession,0.85
+Pediatrician,isA,Doctor,0.9
+Pediatrician,isA,Profession,0.85
+Cardiologist,isA,Doctor,0.9
+Cardiologist,isA,Profession,0.85
+Violinist,isA,Musician,0.9
+Violinist,isA,Profession,0.85
+Pianist,isA,Musician,0.9
+Pianist,isA,Profession,0.85
+Guitarist,isA,Musician,0.9
+Guitarist,isA,Profession,0.85
+Novelist,isA,Writer,0.9
+Novelist,isA,Profession,0.85
+Poet,isA,Writer,0.9
+Poet,isA,Profession,0.85
+Journalist,isA,Writer,0.9
+Journalist,isA,Profession,0.85
+Sculptor,isA,Artist,0.9
+Sculptor,isA,Profession,0.85
+Painter,isA,Artist,0.9
+Painter,isA,Profession,0.85
+Plumber,isA,Tradesperson,0.9
+Plumber,isA,Profession,0.85
+Electrician,isA,Tradesperson,0.9
+Electrician,isA,Profession,0.85
+Carpenter,isA,Tradesperson,0.9
+Carpenter,isA,Profession,0.85
+Artist,isA,Profession,0.85
+Doctor,isA,Profession,0.85
+Musician,isA,Profession,0.85
+Tradesperson,isA,Profession,0.85
+Writer,isA,Profession,0.85
+Algeria,isA,Country,1.0
+Algeria,isA,Place,0.85
+Angola,isA,Country,1.0
+Angola,isA,Place,0.85
+Benin,isA,Country,1.0
+Benin,isA,Place,0.85
+Botswana,isA,Country,1.0
+Botswana,isA,Place,0.85
+Burkina Faso,isA,Country,1.0
+Burkina Faso,isA,Place,0.85
+Burundi,isA,Country,1.0
+Burundi,isA,Place,0.85
+Cameroon,isA,Country,1.0
+Cameroon,isA,Place,0.85
+Chad,isA,Country,1.0
+Chad,isA,Place,0.85
+Egypt,isA,Country,1.0
+Egypt,isA,Place,0.85
+Ethiopia,isA,Country,1.0
+Ethiopia,isA,Place,0.85
+Gabon,isA,Country,1.0
+Gabon,isA,Place,0.85
+Ghana,isA,Country,1.0
+Ghana,isA,Place,0.85
+Kenya,isA,Country,1.0
+Kenya,isA,Place,0.85
+Libya,isA,Country,1.0
+Libya,isA,Place,0.85
+Madagascar,isA,Country,1.0
+Madagascar,isA,Place,0.85
+Malawi,isA,Country,1.0
+Malawi,isA,Place,0.85
+Mali,isA,Country,1.0
+Mali,isA,Place,0.85
+Mauritania,isA,Country,1.0
+Mauritania,isA,Place,0.85
+Morocco,isA,Country,1.0
+Morocco,isA,Place,0.85
+Mozambique,isA,Country,1.0
+Mozambique,isA,Place,0.85
+Namibia,isA,Country,1.0
+Namibia,isA,Place,0.85
+Niger,isA,Country,1.0
+Niger,isA,Place,0.85
+Nigeria,isA,Country,1.0
+Nigeria,isA,Place,0.85
+Rwanda,isA,Country,1.0
+Rwanda,isA,Place,0.85
+Senegal,isA,Country,1.0
+Senegal,isA,Place,0.85
+Somalia,isA,Country,1.0
+Somalia,isA,Place,0.85
+South Africa,isA,Country,1.0
+South Africa,isA,Place,0.85
+South Sudan,isA,Country,1.0
+South Sudan,isA,Place,0.85
+Sudan,isA,Country,1.0
+Sudan,isA,Place,0.85
+Tanzania,isA,Country,1.0
+Tanzania,isA,Place,0.85
+Togo,isA,Country,1.0
+Togo,isA,Place,0.85
+Tunisia,isA,Country,1.0
+Tunisia,isA,Place,0.85
+Uganda,isA,Country,1.0
+Uganda,isA,Place,0.85
+Zambia,isA,Country,1.0
+Zambia,isA,Place,0.85
+Zimbabwe,isA,Country,1.0
+Zimbabwe,isA,Place,0.85
+Afghanistan,isA,Country,1.0
+Afghanistan,isA,Place,0.85
+Armenia,isA,Country,1.0
+Armenia,isA,Place,0.85
+Azerbaijan,isA,Country,1.0
+Azerbaijan,isA,Place,0.85
+Bahrain,isA,Country,1.0
+Bahrain,isA,Place,0.85
+Bangladesh,isA,Country,1.0
+Bangladesh,isA,Place,0.85
+Bhutan,isA,Country,1.0
+Bhutan,isA,Place,0.85
+Brunei,isA,Country,1.0
+Brunei,isA,Place,0.85
+Cambodia,isA,Country,1.0
+Cambodia,isA,Place,0.85
+China,isA,Country,1.0
+China,isA,Place,0.85
+Cyprus,isA,Country,1.0
+Cyprus,isA,Place,0.85
+Georgia,isA,Country,1.0
+Georgia,isA,Place,0.85
+India,isA,Country,1.0
+India,isA,Place,0.85
+Indonesia,isA,Country,1.0
+Indonesia,isA,Place,0.85
+Iran,isA,Country,1.0
+Iran,isA,Place,0.85
+Iraq,isA,Country,1.0
+Iraq,isA,Place,0.85
+Israel,isA,Country,1.0
+Israel,isA,Place,0.85
+Japan,isA,Country,1.0
+Japan,isA,Place,0.85
+Jordan,isA,Country,1.0
+Jordan,isA,Place,0.85
+Kazakhstan,isA,Country,1.0
+Kazakhstan,isA,Place,0.85
+Kuwait,isA,Country,1.0
+Kuwait,isA,Place,0.85
+Kyrgyzstan,isA,Country,1.0
+Kyrgyzstan,isA,Place,0.85
+Laos,isA,Country,1.0
+Laos,isA,Place,0.85
+Lebanon,isA,Country,1.0
+Lebanon,isA,Place,0.85
+Malaysia,isA,Country,1.0
+Malaysia,isA,Place,0.85
+Maldives,isA,Country,1.0
+Maldives,isA,Place,0.85
+Mongolia,isA,Country,1.0
+Mongolia,isA,Place,0.85
+Myanmar,isA,Country,1.0
+Myanmar,isA,Place,0.85
+Nepal,isA,Country,1.0
+Nepal,isA,Place,0.85
+North Korea,isA,Country,1.0
+North Korea,isA,Place,0.85
+Oman,isA,Country,1.0
+Oman,isA,Place,0.85
+Pakistan,isA,Country,1.0
+Pakistan,isA,Place,0.85
+Philippines,isA,Country,1.0
+Philippines,isA,Place,0.85
+Qatar,isA,Country,1.0
+Qatar,isA,Place,0.85
+Saudi Arabia,isA,Country,1.0
+Saudi Arabia,isA,Place,0.85
+Singapore,isA,Country,1.0
+Singapore,isA,Place,0.85
+South Korea,isA,Country,1.0
+South Korea,isA,Place,0.85
+Sri Lanka,isA,Country,1.0
+Sri Lanka,isA,Place,0.85
+Syria,isA,Country,1.0
+Syria,isA,Place,0.85
+Taiwan,isA,Country,1.0
+Taiwan,isA,Place,0.85
+Tajikistan,isA,Country,1.0
+Tajikistan,isA,Place,0.85
+Thailand,isA,Country,1.0
+Thailand,isA,Place,0.85
+Turkey,isA,Country,1.0
+Turkey,isA,Place,0.85
+Turkmenistan,isA,Country,1.0
+Turkmenistan,isA,Place,0.85
+United Arab Emirates,isA,Country,1.0
+United Arab Emirates,isA,Place,0.85
+Uzbekistan,isA,Country,1.0
+Uzbekistan,isA,Place,0.85
+Vietnam,isA,Country,1.0
+Vietnam,isA,Place,0.85
+Yemen,isA,Country,1.0
+Yemen,isA,Place,0.85
+Albania,isA,Country,1.0
+Albania,isA,Place,0.85
+Austria,isA,Country,1.0
+Austria,isA,Place,0.85
+Belarus,isA,Country,1.0
+Belarus,isA,Place,0.85
+Belgium,isA,Country,1.0
+Belgium,isA,Place,0.85
+Bulgaria,isA,Country,1.0
+Bulgaria,isA,Place,0.85
+Croatia,isA,Country,1.0
+Croatia,isA,Place,0.85
+Czech Republic,isA,Country,1.0
+Czech Republic,isA,Place,0.85
+Denmark,isA,Country,1.0
+Denmark,isA,Place,0.85
+Estonia,isA,Country,1.0
+Estonia,isA,Place,0.85
+Finland,isA,Country,1.0
+Finland,isA,Place,0.85
+France,isA,Country,1.0
+France,isA,Place,0.85
+Germany,isA,Country,1.0
+Germany,isA,Place,0.85
+Greece,isA,Country,1.0
+Greece,isA,Place,0.85
+Hungary,isA,Country,1.0
+Hungary,isA,Place,0.85
+Iceland,isA,Country,1.0
+Iceland,isA,Place,0.85
+Ireland,isA,Country,1.0
+Ireland,isA,Place,0.85
+Italy,isA,Country,1.0
+Italy,isA,Place,0.85
+Latvia,isA,Country,1.0
+Latvia,isA,Place,0.85
+Lithuania,isA,Country,1.0
+Lithuania,isA,Place,0.85
+Luxembourg,isA,Country,1.0
+Luxembourg,isA,Place,0.85
+Malta,isA,Country,1.0
+Malta,isA,Place,0.85
+Moldova,isA,Country,1.0
+Moldova,isA,Place,0.85
+Netherlands,isA,Country,1.0
+Netherlands,isA,Place,0.85
+Norway,isA,Country,1.0
+Norway,isA,Place,0.85
+Poland,isA,Country,1.0
+Poland,isA,Place,0.85
+Portugal,isA,Country,1.0
+Portugal,isA,Place,0.85
+Romania,isA,Country,1.0
+Romania,isA,Place,0.85
+Russia,isA,Country,1.0
+Russia,isA,Place,0.85
+Serbia,isA,Country,1.0
+Serbia,isA,Place,0.85
+Slovakia,isA,Country,1.0
+Slovakia,isA,Place,0.85
+Slovenia,isA,Country,1.0
+Slovenia,isA,Place,0.85
+Spain,isA,Country,1.0
+Spain,isA,Place,0.85
+Sweden,isA,Country,1.0
+Sweden,isA,Place,0.85
+Switzerland,isA,Country,1.0
+Switzerland,isA,Place,0.85
+Ukraine,isA,Country,1.0
+Ukraine,isA,Place,0.85
+United Kingdom,isA,Country,1.0
+United Kingdom,isA,Place,0.85
+Canada,isA,Country,1.0
+Canada,isA,Place,0.85
+Mexico,isA,Country,1.0
+Mexico,isA,Place,0.85
+United States,isA,Country,1.0
+United States,isA,Place,0.85
+Cuba,isA,Country,1.0
+Cuba,isA,Place,0.85
+Jamaica,isA,Country,1.0
+Jamaica,isA,Place,0.85
+Panama,isA,Country,1.0
+Panama,isA,Place,0.85
+Costa Rica,isA,Country,1.0
+Costa Rica,isA,Place,0.85
+Guatemala,isA,Country,1.0
+Guatemala,isA,Place,0.85
+Honduras,isA,Country,1.0
+Honduras,isA,Place,0.85
+Nicaragua,isA,Country,1.0
+Nicaragua,isA,Place,0.85
+Argentina,isA,Country,1.0
+Argentina,isA,Place,0.85
+Bolivia,isA,Country,1.0
+Bolivia,isA,Place,0.85
+Brazil,isA,Country,1.0
+Brazil,isA,Place,0.85
+Chile,isA,Country,1.0
+Chile,isA,Place,0.85
+Colombia,isA,Country,1.0
+Colombia,isA,Place,0.85
+Ecuador,isA,Country,1.0
+Ecuador,isA,Place,0.85
+Guyana,isA,Country,1.0
+Guyana,isA,Place,0.85
+Paraguay,isA,Country,1.0
+Paraguay,isA,Place,0.85
+Peru,isA,Country,1.0
+Peru,isA,Place,0.85
+Suriname,isA,Country,1.0
+Suriname,isA,Place,0.85
+Uruguay,isA,Country,1.0
+Uruguay,isA,Place,0.85
+Venezuela,isA,Country,1.0
+Venezuela,isA,Place,0.85
+Australia,isA,Country,1.0
+Australia,isA,Place,0.85
+Fiji,isA,Country,1.0
+Fiji,isA,Place,0.85
+New Zealand,isA,Country,1.0
+New Zealand,isA,Place,0.85
+Papua New Guinea,isA,Country,1.0
+Papua New Guinea,isA,Place,0.85
+Samoa,isA,Country,1.0
+Samoa,isA,Place,0.85
+Tonga,isA,Country,1.0
+Tonga,isA,Place,0.85
+Vanuatu,isA,Country,1.0
+Vanuatu,isA,Place,0.85
+Country,isA,Place,0.85
+Oak Tree,isA,Tree,0.9
+Oak Tree,isA,Plant,0.9
+Pine Tree,isA,Tree,0.9
+Pine Tree,isA,Plant,0.9
+Maple Tree,isA,Tree,0.9
+Maple Tree,isA,Plant,0.9
+Redwood,isA,Tree,0.9
+Redwood,isA,Plant,0.9
+Rose,isA,Flower,0.9
+Rose,isA,Plant,0.9
+Tulip,isA,Flower,0.9
+Tulip,isA,Plant,0.9
+Sunflower,isA,Flower,0.9
+Sunflower,isA,Plant,0.9
+Daisy,isA,Flower,0.9
+Daisy,isA,Plant,0.9
+Orchid,isA,Flower,0.9
+Orchid,isA,Plant,0.9
+Lily,isA,Flower,0.9
+Lily,isA,Plant,0.9
+Bamboo,isA,Grass,0.9
+Bamboo,isA,Plant,0.9
+Wheat,isA,Grass,0.9
+Wheat,isA,Plant,0.9
+Rice Plant,isA,Grass,0.9
+Rice Plant,isA,Plant,0.9
+Corn Plant,isA,Grass,0.9
+Corn Plant,isA,Plant,0.9
+Fern,isA,Fern,0.9
+Fern,isA,Plant,0.9
+Cactus,isA,Succulent,0.9
+Cactus,isA,Plant,0.9
+Aloe Vera,isA,Succulent,0.9
+Aloe Vera,isA,Plant,0.9
+Flower,isA,Plant,0.9
+Grass,isA,Plant,0.9
+Succulent,isA,Plant,0.9
+Tree,isA,Plant,0.9
+Mushroom,isA,Fungus,0.9
+Fungus,isA,Living Organism,0.75
+Algae,isA,Protist,0.7
+Protist,isA,Living Organism,0.7
+Plant,isA,Living Organism,0.85
+Animal,isA,Living Organism,0.85
+Fire,hasQuality,Hot,0.97
+Ice,hasQuality,Cold,0.97
+Sun,hasQuality,Hot,0.95
+Snow,hasQuality,Cold,0.95
+Diamond,hasQuality,Hard,0.97
+Feather,hasQuality,Light,0.9
+Lead,hasQuality,Dense,0.9
+Steel,hasQuality,Strong,0.85
+Glass,hasQuality,Fragile,0.85
+Rubber,hasQuality,Elastic,0.9
+Honey,hasQuality,Sticky,0.9
+Sandpaper,hasQuality,Rough,0.9
+Silk,hasQuality,Smooth,0.85
+Lemon,hasQuality,Sour,0.9
+Sugar,hasQuality,Sweet,0.95
+Chili Pepper,hasQuality,Spicy,0.9
+Coffee,hasQuality,Bitter,0.85
+Salt,hasQuality,Salty,0.97
+Vinegar,hasQuality,Acidic,0.9
+Cheetah,hasQuality,Fast,0.9
+Sloth,hasQuality,Slow,0.9
+Tortoise,hasQuality,Slow,0.85
+Elephant,hasQuality,Large,0.9
+Ant,hasQuality,Small,0.9
+Mouse,hasQuality,Small,0.85
+Blue Whale,hasQuality,Massive,0.95
+Giraffe,hasQuality,Tall,0.9
+Snake,hasQuality,Legless,0.95
+Owl,hasQuality,Nocturnal,0.85
+Bat,hasQuality,Nocturnal,0.85
+Chameleon,hasQuality,Camouflaged,0.85
+Peacock,hasQuality,Colorful,0.85
+Zebra,hasQuality,Striped,0.95
+Leopard,hasQuality,Spotted,0.9
+Cactus,hasQuality,Spiny,0.85
+Rose,hasQuality,Thorny,0.8
+Oak Tree,hasQuality,Sturdy,0.75
+Bamboo,hasQuality,Flexible,0.8
+Redwood,hasQuality,Tall,0.9
+Mushroom,hasQuality,Fungal,0.9
+Gold,hasQuality,Shiny,0.9
+Gold,hasQuality,Malleable,0.85
+Silver,hasQuality,Shiny,0.85
+Copper,hasQuality,Conductive,0.9
+Rubber,hasQuality,Insulating,0.85
+Wood,hasQuality,Combustible,0.8
+Water,hasQuality,Transparent,0.85
+Air,hasQuality,Invisible,0.85
+Oil,hasQuality,Slippery,0.85
+Granite,hasQuality,Hard,0.85
+Clay,hasQuality,Moldable,0.85
+Cotton,hasQuality,Soft,0.85
+Wool,hasQuality,Warm,0.8
+Marble,hasQuality,Smooth,0.75
+Concrete,hasQuality,Durable,0.8
+Volcano,hasQuality,Hot,0.85
+Desert,hasQuality,Dry,0.9
+Rainforest,hasQuality,Humid,0.9
+Ocean,hasQuality,Salty,0.9
+River,hasQuality,Freshwater,0.85
+Glacier,hasQuality,Cold,0.9
+Mount Everest,hasQuality,Tall,0.95
+Sahara Desert,hasQuality,Hot,0.85
+Human Heart,hasQuality,Muscular,0.9
+Human Skin,hasQuality,Elastic,0.75
+Human Bone,hasQuality,Rigid,0.85
+Human Brain,hasQuality,Complex,0.9
+Spider Silk,hasQuality,Strong,0.9
+Kevlar,hasQuality,Strong,0.9
+Helium,hasQuality,Light,0.9
+Hydrogen,hasQuality,Flammable,0.9
+Oxygen,hasQuality,Colorless,0.9
+Nitrogen,hasQuality,Inert,0.75
+Mercury (element),hasQuality,Liquid at Room Temperature,0.95
+Neon,hasQuality,Colorless,0.85
+Chlorine,hasQuality,Toxic,0.8
+Ozone,hasQuality,Reactive,0.75
+Diamond,hasQuality,Transparent,0.8
+Ruby,hasQuality,Red,0.85
+Emerald,hasQuality,Green,0.85
+Sapphire,hasQuality,Blue,0.8
+Amethyst,hasQuality,Purple,0.85
+Obsidian,hasQuality,Sharp,0.8
+Titanium,hasQuality,Lightweight,0.85
+Titanium,hasQuality,Corrosion-Resistant,0.85
+Aluminum,hasQuality,Lightweight,0.85
+Iron,hasQuality,Magnetic,0.8
+Wolf,hasQuality,Social,0.75
+Lion,hasQuality,Social,0.75
+Tiger,hasQuality,Solitary,0.75
+Bee,hasQuality,Social,0.85
+Ant,hasQuality,Social,0.85
+Shark,hasQuality,Predatory,0.85
+Panda,hasQuality,Docile,0.7
+Hyena,hasQuality,Scavenging,0.75
+Cactus,hasQuality,Drought-Resistant,0.9
+Venus Flytrap,hasQuality,Carnivorous,0.95
+Fern,hasQuality,Shade-Loving,0.7
+Sunflower,hasQuality,Phototropic,0.8
+Milk,hasQuality,White,0.9
+Blood,hasQuality,Red,0.9
+Grass,hasQuality,Green,0.85
+Sky,hasQuality,Blue,0.8
+Charcoal,hasQuality,Black,0.9
+Cheese,hasQuality,Fermented,0.7
+Yogurt,hasQuality,Fermented,0.75
+Wine,hasQuality,Fermented,0.8
+Bread,hasQuality,Baked,0.8
+Pasta,hasQuality,Starchy,0.8
+Rice,hasQuality,Starchy,0.8
+Marathon Runner,hasQuality,Endurant,0.7
+Sprinter,hasQuality,Fast,0.8
+Computer Chip,hasQuality,Electronic,0.85
+Battery,hasQuality,Rechargeable,0.6
+Smartphone,hasQuality,Portable,0.8
+Airplane,hasQuality,Fast,0.75
+Turtle,hasQuality,Long-Lived,0.75
+Mayfly,hasQuality,Short-Lived,0.85
+Redwood Tree,hasQuality,Long-Lived,0.8
+Bristlecone Pine,hasQuality,Long-Lived,0.85
+Jellyfish,hasQuality,Translucent,0.8
+Glass Frog,hasQuality,Translucent,0.75
+Polar Bear,hasQuality,White,0.85
+Flamingo,hasQuality,Pink,0.85
+Canary,hasQuality,Yellow,0.75
+Raven,hasQuality,Black,0.85
+Zebra Finch,hasQuality,Striped,0.6
+Volcanic Rock,hasQuality,Porous,0.75
+Pumice,hasQuality,Porous,0.85
+Sponge,hasQuality,Absorbent,0.9
+Towel,hasQuality,Absorbent,0.8
+Mirror,hasQuality,Reflective,0.9
+Chrome,hasQuality,Reflective,0.85
+Sandstone,hasQuality,Porous,0.75
+Limestone,hasQuality,Soluble,0.7
+Quartz,hasQuality,Hard,0.85
+Talc,hasQuality,Soft,0.85
+Penguin,hasQuality,Flightless,0.9
+Ostrich,hasQuality,Flightless,0.9
+Kiwi Bird,hasQuality,Flightless,0.9
+Eagle,hasQuality,Sharp-Sighted,0.85
+Dog,hasQuality,Loyal,0.7
+Cat,hasQuality,Independent,0.65
+Dolphin,hasQuality,Intelligent,0.8
+Crow,hasQuality,Intelligent,0.75
+Octopus,hasQuality,Intelligent,0.8
+Camel,hasQuality,Drought-Resistant,0.85
+Camel,hasQuality,Hardy,0.8
+Arctic Fox,hasQuality,Cold-Adapted,0.85
+Polar Bear,hasQuality,Cold-Adapted,0.9
+Cactus Spine,hasQuality,Sharp,0.85
+Thorn,hasQuality,Sharp,0.85
+Blade,hasQuality,Sharp,0.85
+Pillow,hasQuality,Soft,0.85
+Rock,hasQuality,Hard,0.8
+Water,hasQuality,Liquid,0.9
+Steam,hasQuality,Gaseous,0.85
+Ice Cube,hasQuality,Solid,0.9
+Basalt,hasQuality,Dark,0.75
+Chalk,hasQuality,Soft,0.85
+Pumice,hasQuality,Lightweight,0.85
+Wax,hasQuality,Meltable,0.85
+Butter,hasQuality,Meltable,0.8
+Chocolate,hasQuality,Meltable,0.75
+Iron,hasQuality,Malleable,0.8
+Sand,hasQuality,Granular,0.85
+Flour,hasQuality,Powdery,0.85
+Salt,hasQuality,Crystalline,0.8
+Sugar,hasQuality,Crystalline,0.8
+Quartz,hasQuality,Crystalline,0.85
+Velvet,hasQuality,Soft,0.85
+Sandpaper,hasQuality,Abrasive,0.9
+Denim,hasQuality,Durable,0.75
+Leather,hasQuality,Durable,0.8
+Paper,hasQuality,Thin,0.75
+Cardboard,hasQuality,Rigid,0.7
+Balloon,hasQuality,Inflatable,0.85
+Sponge,hasQuality,Porous,0.85
+Volcanic Ash,hasQuality,Fine,0.7
+Fog,hasQuality,Dense,0.65
+Cloud,hasQuality,Fluffy,0.6
+Thunderstorm,hasQuality,Loud,0.7
+Whisper,hasQuality,Quiet,0.85
+Siren,hasQuality,Loud,0.85
+Violin,hasQuality,Melodic,0.6
+Drum,hasQuality,Percussive,0.85
+Trumpet,hasQuality,Brassy,0.7
+Owl Call,hasQuality,Eerie,0.6
+Lion Roar,hasQuality,Loud,0.85
+Mouse Squeak,hasQuality,Quiet,0.75
+Cheetah,hasQuality,Agile,0.85
+Gazelle,hasQuality,Agile,0.8
+Monkey,hasQuality,Agile,0.8
+Penguin,hasQuality,Waddling,0.7
+Snail,hasQuality,Slow,0.9
+Falcon,hasQuality,Fast,0.9
+Hare,hasQuality,Fast,0.85
+Snail,hasQuality,Small,0.7
+Blue Whale,hasQuality,Loud (Vocalization),0.7
+Elephant,hasQuality,Strong,0.85
+Ant,hasQuality,Strong (Relative to Size),0.85
+Gorilla,hasQuality,Strong,0.9
+Spider,hasQuality,Eight-Legged,0.95
+Insect,hasQuality,Six-Legged,0.9
+Starfish,hasQuality,Regenerative,0.8
+Chameleon,hasQuality,Color-Changing,0.9
+Octopus,hasQuality,Color-Changing,0.8
+Cuttlefish,hasQuality,Color-Changing,0.8
+Firefly,hasQuality,Bioluminescent,0.9
+Anglerfish,hasQuality,Bioluminescent,0.85
+Jellyfish,hasQuality,Bioluminescent,0.65
+Skunk,hasQuality,Odorous,0.85
+Rose,hasQuality,Fragrant,0.8
+Garlic,hasQuality,Pungent,0.85
+Onion,hasQuality,Pungent,0.8
+Durian,hasQuality,Pungent,0.85
+Lavender,hasQuality,Fragrant,0.8
+Vanilla,hasQuality,Fragrant,0.75
+Vinegar,hasQuality,Pungent,0.75
+Spinach,hasQuality,Nutritious,0.7
+Kale,hasQuality,Nutritious,0.7
+Broccoli,hasQuality,Nutritious,0.7
+Junk Food,hasQuality,Calorie-Dense,0.65
+Water,hasQuality,Essential for Life,0.9
+Oxygen,hasQuality,Essential for Life,0.9
+Sunlight,hasQuality,Essential for Photosynthesis,0.85
+Bamboo,hasQuality,Fast-Growing,0.85
+Ivy,hasQuality,Fast-Growing,0.7
+Bonsai Tree,hasQuality,Slow-Growing,0.75
+Oak Tree,hasQuality,Slow-Growing,0.65
+Redwood,hasQuality,Ancient,0.65
+Bristlecone Pine,hasQuality,Ancient,0.75
+Glass,hasQuality,Transparent,0.9
+Fog,hasQuality,Translucent,0.65
+Obsidian,hasQuality,Glassy,0.8
+Marble,hasQuality,Polished,0.65
+Rubber Band,hasQuality,Stretchy,0.9
+Spring (Coil),hasQuality,Elastic,0.85
+Trampoline,hasQuality,Bouncy,0.85
+Pillow,hasQuality,Fluffy,0.75
+Anvil,hasQuality,Heavy,0.85
+Feather Pillow,hasQuality,Light,0.75
+Battery,hasQuality,Energy-Storing,0.85
+Solar Panel,hasQuality,Energy-Converting,0.8
+Magnet,hasQuality,Magnetic,0.95
+Compass Needle,hasQuality,Magnetic,0.85
+Diamond,hasQuality,Rare,0.7
+Gold,hasQuality,Rare,0.7
+Sand,hasQuality,Abundant,0.75
+Water (on Earth),hasQuality,Abundant,0.7
+Helium,hasQuality,Rare on Earth,0.6
+Hippopotamus,hasQuality,Large,0.85
+Rhinoceros,hasQuality,Large,0.85
+Rhinoceros,hasQuality,Horned,0.9
+Panda,hasQuality,Black and White,0.9
+Koala,hasQuality,Gray,0.7
+Cow,hasQuality,Docile,0.65
+Pig,hasQuality,Pink,0.6
+Sheep,hasQuality,Woolly,0.85
+Fox,hasQuality,Cunning,0.6
+Toucan,hasQuality,Colorful,0.85
+Woodpecker,hasQuality,Pecking,0.75
+Cardinal,hasQuality,Red,0.85
+Blue Jay,hasQuality,Blue,0.8
+Cobra,hasQuality,Venomous,0.85
+Viper,hasQuality,Venomous,0.85
+Komodo Dragon,hasQuality,Large,0.85
+Ladybug,hasQuality,Spotted,0.85
+Praying Mantis,hasQuality,Camouflaged,0.75
+Pufferfish,hasQuality,Spiky,0.8
+Camel,hasQuality,Humped,0.9
+Beaver,hasQuality,Industrious,0.6
+Skunk,hasQuality,Black and White,0.75
+Squirrel,hasQuality,Bushy-Tailed,0.75
+Moose,hasQuality,Antlered,0.8
+Traffic Cone,hasQuality,Bright,0.6
+Snowflake,hasQuality,Symmetrical,0.85
+Atom,contains,Proton,0.97
+Atom,contains,Neutron,0.9
+Atom,contains,Electron,0.97
+Water Molecule,contains,Hydrogen,1.0
+Water Molecule,contains,Oxygen,1.0
+Cell,contains,Nucleus,0.85
+Cell,contains,Mitochondria,0.85
+Cell,contains,Cytoplasm,0.85
+Cell,contains,Ribosome,0.75
+Plant Cell,contains,Chloroplast,0.9
+Plant Cell,contains,Cell Wall,0.9
+Human Cell,contains,Nucleus,0.85
+DNA,contains,Nucleotide,0.9
+DNA,contains,Adenine,0.7
+DNA,contains,Guanine,0.7
+DNA,contains,Cytosine,0.7
+DNA,contains,Thymine,0.7
+Human Body,contains,Heart,0.95
+Human Body,contains,Brain,0.95
+Human Body,contains,Lungs,0.95
+Human Body,contains,Liver,0.9
+Human Body,contains,Kidneys,0.9
+Human Body,contains,Stomach,0.9
+Human Body,contains,Skin,0.9
+Human Body,contains,Skeleton,0.9
+Human Body,contains,Blood,0.9
+Human Body,contains,Muscles,0.9
+Skeleton,contains,Skull,0.9
+Skeleton,contains,Rib Cage,0.85
+Skeleton,contains,Femur,0.8
+Rib Cage,contains,Ribs,0.9
+Heart,contains,Ventricle,0.9
+Heart,contains,Atrium,0.9
+Eye,contains,Retina,0.9
+Eye,contains,Cornea,0.85
+Eye,contains,Pupil,0.85
+Ear,contains,Eardrum,0.85
+Ear,contains,Cochlea,0.8
+Solar System,contains,Sun,0.9
+Solar System,contains,Mercury,0.9
+Solar System,contains,Venus,0.9
+Solar System,contains,Earth,0.9
+Solar System,contains,Mars,0.9
+Solar System,contains,Jupiter,0.9
+Solar System,contains,Saturn,0.9
+Solar System,contains,Uranus,0.9
+Solar System,contains,Neptune,0.9
+Milky Way,contains,Solar System,0.85
+Galaxy,contains,Star,0.8
+Universe,contains,Galaxy,0.8
+Earth,contains,Atmosphere,0.9
+Earth,contains,Crust,0.9
+Earth,contains,Mantle,0.9
+Earth,contains,Core,0.9
+Atmosphere,contains,Nitrogen,0.85
+Atmosphere,contains,Oxygen,0.85
+Atmosphere,contains,Carbon Dioxide,0.7
+Atom Nucleus,contains,Proton,0.95
+Molecule,contains,Atom,0.9
+Sentence,contains,Word,0.85
+Word,contains,Letter,0.85
+Book,contains,Chapter,0.85
+Chapter,contains,Paragraph,0.75
+Orchestra,contains,Violin Section,0.7
+Computer,contains,Processor,0.85
+Computer,contains,Memory,0.8
+Computer,contains,Hard Drive,0.75
+Smartphone,contains,Battery,0.8
+Smartphone,contains,Camera,0.75
+Car,contains,Engine,0.9
+Car,contains,Wheels,0.9
+Engine,contains,Piston,0.8
+Bicycle,contains,Wheels,0.9
+Bicycle,contains,Handlebars,0.85
+House,contains,Roof,0.85
+House,contains,Foundation,0.85
+City,contains,Neighborhood,0.75
+Country,contains,City,0.8
+Continent,contains,Country,0.85
+Paris,isIn,France,0.95
+Berlin,isIn,Germany,0.95
+Rome,isIn,Italy,0.95
+Madrid,isIn,Spain,0.95
+Lisbon,isIn,Portugal,0.95
+Amsterdam,isIn,Netherlands,0.95
+Brussels,isIn,Belgium,0.95
+Bern,isIn,Switzerland,0.95
+Vienna,isIn,Austria,0.95
+Warsaw,isIn,Poland,0.95
+Prague,isIn,Czech Republic,0.95
+Budapest,isIn,Hungary,0.95
+Athens,isIn,Greece,0.95
+Stockholm,isIn,Sweden,0.95
+Oslo,isIn,Norway,0.95
+Copenhagen,isIn,Denmark,0.95
+Helsinki,isIn,Finland,0.95
+Dublin,isIn,Ireland,0.95
+London,isIn,United Kingdom,0.95
+Moscow,isIn,Russia,0.95
+Kyiv,isIn,Ukraine,0.95
+Bucharest,isIn,Romania,0.95
+Sofia,isIn,Bulgaria,0.95
+Zagreb,isIn,Croatia,0.95
+Belgrade,isIn,Serbia,0.95
+Reykjavik,isIn,Iceland,0.95
+Tokyo,isIn,Japan,0.95
+Beijing,isIn,China,0.95
+Seoul,isIn,South Korea,0.95
+Pyongyang,isIn,North Korea,0.95
+New Delhi,isIn,India,0.95
+Islamabad,isIn,Pakistan,0.95
+Dhaka,isIn,Bangladesh,0.95
+Kathmandu,isIn,Nepal,0.95
+Bangkok,isIn,Thailand,0.95
+Hanoi,isIn,Vietnam,0.95
+Manila,isIn,Philippines,0.95
+Jakarta,isIn,Indonesia,0.95
+Kuala Lumpur,isIn,Malaysia,0.95
+Singapore City,isIn,Singapore,0.95
+Kabul,isIn,Afghanistan,0.95
+Tehran,isIn,Iran,0.95
+Baghdad,isIn,Iraq,0.95
+Riyadh,isIn,Saudi Arabia,0.95
+Ankara,isIn,Turkey,0.95
+Jerusalem,isIn,Israel,0.95
+Cairo,isIn,Egypt,0.95
+Tripoli,isIn,Libya,0.95
+Tunis,isIn,Tunisia,0.95
+Algiers,isIn,Algeria,0.95
+Rabat,isIn,Morocco,0.95
+Nairobi,isIn,Kenya,0.95
+Addis Ababa,isIn,Ethiopia,0.95
+Accra,isIn,Ghana,0.95
+Abuja,isIn,Nigeria,0.95
+Pretoria,isIn,South Africa,0.95
+Harare,isIn,Zimbabwe,0.95
+Kinshasa,isIn,Democratic Republic of the Congo,0.95
+Ottawa,isIn,Canada,0.95
+Washington D.C.,isIn,United States,0.95
+Mexico City,isIn,Mexico,0.95
+Havana,isIn,Cuba,0.95
+Panama City,isIn,Panama,0.95
+San Jose,isIn,Costa Rica,0.95
+Bogota,isIn,Colombia,0.95
+Caracas,isIn,Venezuela,0.95
+Lima,isIn,Peru,0.95
+Santiago,isIn,Chile,0.95
+Buenos Aires,isIn,Argentina,0.95
+Brasilia,isIn,Brazil,0.95
+Montevideo,isIn,Uruguay,0.95
+La Paz,isIn,Bolivia,0.95
+Quito,isIn,Ecuador,0.95
+Canberra,isIn,Australia,0.95
+Wellington,isIn,New Zealand,0.95
+Suva,isIn,Fiji,0.95
+Eiffel Tower,isIn,Paris,0.9
+Statue of Liberty,isIn,New York City,0.9
+Great Wall of China,isIn,China,0.9
+Colosseum,isIn,Rome,0.9
+Taj Mahal,isIn,Agra,0.9
+Machu Picchu,isIn,Peru,0.9
+Great Pyramid of Giza,isIn,Egypt,0.9
+Christ the Redeemer,isIn,Rio de Janeiro,0.9
+Big Ben,isIn,London,0.9
+Sydney Opera House,isIn,Sydney,0.9
+Mount Everest,isIn,Nepal,0.9
+Mount Kilimanjaro,isIn,Tanzania,0.9
+Grand Canyon,isIn,United States,0.9
+Amazon Rainforest,isIn,Brazil,0.9
+Sahara Desert,isIn,North Africa,0.9
+Niagara Falls,isIn,North America,0.9
+Victoria Falls,isIn,Zambia,0.9
+Stonehenge,isIn,England,0.9
+Acropolis,isIn,Athens,0.9
+Petra,isIn,Jordan,0.9
+Angkor Wat,isIn,Cambodia,0.9
+Mount Fuji,isIn,Japan,0.9
+Uluru,isIn,Australia,0.9
+Golden Gate Bridge,isIn,San Francisco,0.9
+Burj Khalifa,isIn,Dubai,0.9
+California,isIn,United States,0.97
+Texas,isIn,United States,0.97
+Florida,isIn,United States,0.97
+New York,isIn,United States,0.97
+Pennsylvania,isIn,United States,0.97
+Illinois,isIn,United States,0.97
+Ohio,isIn,United States,0.97
+Georgia,isIn,United States,0.97
+North Carolina,isIn,United States,0.97
+Michigan,isIn,United States,0.97
+New Jersey,isIn,United States,0.97
+Virginia,isIn,United States,0.97
+Washington,isIn,United States,0.97
+Arizona,isIn,United States,0.97
+Massachusetts,isIn,United States,0.97
+Tennessee,isIn,United States,0.97
+Indiana,isIn,United States,0.97
+Missouri,isIn,United States,0.97
+Maryland,isIn,United States,0.97
+Wisconsin,isIn,United States,0.97
+Colorado,isIn,United States,0.97
+Minnesota,isIn,United States,0.97
+South Carolina,isIn,United States,0.97
+Alabama,isIn,United States,0.97
+Louisiana,isIn,United States,0.97
+Kentucky,isIn,United States,0.97
+Oregon,isIn,United States,0.97
+Oklahoma,isIn,United States,0.97
+Connecticut,isIn,United States,0.97
+Utah,isIn,United States,0.97
+Nevada,isIn,United States,0.97
+Iowa,isIn,United States,0.97
+Arkansas,isIn,United States,0.97
+Mississippi,isIn,United States,0.97
+Kansas,isIn,United States,0.97
+New Mexico,isIn,United States,0.97
+Nebraska,isIn,United States,0.97
+Idaho,isIn,United States,0.97
+Hawaii,isIn,United States,0.97
+Maine,isIn,United States,0.97
+Alaska,isIn,United States,0.97
+Montana,isIn,United States,0.97
+Vermont,isIn,United States,0.97
+Wyoming,isIn,United States,0.97
+Nile River,isIn,Africa,0.9
+Amazon River,isIn,South America,0.9
+Mississippi River,isIn,United States,0.9
+Yangtze River,isIn,China,0.9
+Ganges River,isIn,India,0.9
+Danube River,isIn,Europe,0.9
+Thames River,isIn,England,0.9
+Volga River,isIn,Russia,0.9
+Rhine River,isIn,Europe,0.9
+Congo River,isIn,Africa,0.9
+Rain,causedBy,Condensation,0.85
+Rainbow,causedBy,Light Refraction,0.9
+Thunder,causedBy,Lightning,0.85
+Tides,causedBy,Gravitational Pull of the Moon,0.9
+Seasons,causedBy,Earth's Axial Tilt,0.9
+Day and Night,causedBy,Earth's Rotation,0.95
+Earthquakes,causedBy,Tectonic Plate Movement,0.9
+Volcanic Eruptions,causedBy,Magma Pressure,0.85
+Tsunamis,causedBy,Underwater Earthquakes,0.75
+Global Warming,causedBy,Greenhouse Gas Emissions,0.8
+Ozone Depletion,causedBy,Chlorofluorocarbons,0.8
+Acid Rain,causedBy,Sulfur Dioxide Emissions,0.8
+Rust,causedBy,Oxidation of Iron,0.9
+Combustion,causedBy,Rapid Oxidation,0.85
+Photosynthesis,causedBy,Sunlight Absorption,0.85
+Scurvy,causedBy,Vitamin C Deficiency,0.9
+Rickets,causedBy,Vitamin D Deficiency,0.85
+Night Blindness,causedBy,Vitamin A Deficiency,0.8
+Anemia,causedBy,Iron Deficiency,0.75
+Goiter,causedBy,Iodine Deficiency,0.8
+Malaria,causedBy,Plasmodium Parasite,0.9
+Tuberculosis,causedBy,Mycobacterium Bacteria,0.9
+Common Cold,causedBy,Rhinovirus,0.8
+Influenza,causedBy,Influenza Virus,0.9
+COVID-19,causedBy,SARS-CoV-2 Virus,0.9
+Chickenpox,causedBy,Varicella-Zoster Virus,0.9
+Tooth Decay,causedBy,Bacterial Acid Production,0.8
+Sunburn,causedBy,Ultraviolet Radiation,0.85
+Frostbite,causedBy,Extreme Cold Exposure,0.85
+Hypothermia,causedBy,Prolonged Cold Exposure,0.85
+Dehydration,causedBy,Insufficient Water Intake,0.85
+Obesity,causedBy,Caloric Surplus,0.6
+Type 2 Diabetes,causedBy,Insulin Resistance,0.7
+Osteoporosis,causedBy,Calcium Deficiency,0.65
+Landslides,causedBy,Heavy Rainfall,0.65
+Floods,causedBy,Excessive Rainfall,0.7
+Droughts,causedBy,Prolonged Lack of Rainfall,0.75
+Wildfires,causedBy,Dry Conditions and Ignition Sources,0.65
+Erosion,causedBy,Wind and Water Action,0.75
+Sound,causedBy,Vibrating Objects,0.85
+Echo,causedBy,Sound Reflection,0.85
+Static Electricity,causedBy,Friction Between Materials,0.75
+Lightning,causedBy,Electrical Charge Buildup in Clouds,0.85
+Fog,causedBy,Condensation Near the Ground,0.8
+Hurricanes,causedBy,Warm Ocean Water Evaporation,0.75
+Ice Formation,causedBy,Freezing Temperatures,0.9
+Evaporation,causedBy,Heat Energy,0.85
+Bruising,causedBy,Broken Blood Vessels,0.8
+Muscle Soreness,causedBy,Lactic Acid Buildup,0.6
+Jet Lag,causedBy,Circadian Rhythm Disruption,0.75
+Cavities,causedBy,Bacterial Plaque,0.8
+Allergic Reactions,causedBy,Immune System Overreaction,0.75
+Asthma Attacks,causedBy,Airway Inflammation,0.75
+Food Poisoning,causedBy,Contaminated Food,0.85
+Sunset Colors,causedBy,Atmospheric Light Scattering,0.8
+Sky,causedBy,Rayleigh Scattering of Sunlight,0.85
+Mammal,hasInstance,Dog,0.75
+Bird,hasInstance,Eagle,0.75
+Fish,hasInstance,Salmon,0.75
+Reptile,hasInstance,Snake,0.75
+Amphibian,hasInstance,Frog,0.75
+Insect,hasInstance,Ant,0.75
+Planet,hasInstance,Earth,0.8
+Dwarf Planet,hasInstance,Pluto,0.8
+Chemical Element,hasInstance,Gold,0.7
+Metal,hasInstance,Iron,0.75
+Noble Gas,hasInstance,Helium,0.8
+Continent,hasInstance,Asia,0.8
+Country,hasInstance,France,0.7
+Ocean,hasInstance,Pacific Ocean,0.8
+Mountain Range,hasInstance,Himalayas,0.8
+River,hasInstance,Nile River,0.75
+Programming Language,hasInstance,Python,0.7
+Musical Instrument,hasInstance,Piano,0.7
+Polygon,hasInstance,Triangle,0.8
+3D Shape,hasInstance,Sphere,0.75
+Season,hasInstance,Winter,0.85
+Primary Color,hasInstance,Red,0.85
+State of Matter,hasInstance,Liquid,0.85
+Force,hasInstance,Gravity,0.75
+Renewable Energy Source,hasInstance,Solar Power,0.75
+Fossil Fuel,hasInstance,Coal,0.8
+Vitamin,hasInstance,Vitamin C,0.75
+Blood Type,hasInstance,O Negative,0.75
+Cloud Type,hasInstance,Cumulus,0.75
+Rock Type,hasInstance,Granite,0.75
+Fruit,hasInstance,Apple,0.75
+Vegetable,hasInstance,Carrot,0.75
+Plant,hasInstance,Rose,0.75
+Object,hasInstance,Chair,0.6
+Photosynthesis,hasStep,Light Absorption,0.9
+Photosynthesis,hasStep,Water Splitting,0.9
+Photosynthesis,hasStep,Carbon Fixation,0.9
+Photosynthesis,hasStep,Glucose Production,0.9
+Water Cycle,hasStep,Evaporation,0.9
+Water Cycle,hasStep,Condensation,0.9
+Water Cycle,hasStep,Precipitation,0.9
+Water Cycle,hasStep,Collection,0.9
+Cellular Respiration,hasStep,Glycolysis,0.9
+Cellular Respiration,hasStep,Krebs Cycle,0.9
+Cellular Respiration,hasStep,Electron Transport Chain,0.9
+Cellular Respiration,hasStep,ATP Production,0.9
+Digestion,hasStep,Ingestion,0.9
+Digestion,hasStep,Mechanical Digestion,0.9
+Digestion,hasStep,Chemical Digestion,0.9
+Digestion,hasStep,Absorption,0.9
+Digestion,hasStep,Egestion,0.9
+Mitosis,hasStep,Prophase,0.9
+Mitosis,hasStep,Metaphase,0.9
+Mitosis,hasStep,Anaphase,0.9
+Mitosis,hasStep,Telophase,0.9
+Nitrogen Cycle,hasStep,Nitrogen Fixation,0.9
+Nitrogen Cycle,hasStep,Nitrification,0.9
+Nitrogen Cycle,hasStep,Assimilation,0.9
+Nitrogen Cycle,hasStep,Ammonification,0.9
+Nitrogen Cycle,hasStep,Denitrification,0.9
+Rock Cycle,hasStep,Weathering,0.9
+Rock Cycle,hasStep,Erosion,0.9
+Rock Cycle,hasStep,Deposition,0.9
+Rock Cycle,hasStep,Compaction,0.9
+Rock Cycle,hasStep,Metamorphism,0.9
+Combustion Engine Cycle,hasStep,Intake,0.9
+Combustion Engine Cycle,hasStep,Compression,0.9
+Combustion Engine Cycle,hasStep,Combustion,0.9
+Combustion Engine Cycle,hasStep,Exhaust,0.9
+Scientific Method,hasStep,Observation,0.9
+Scientific Method,hasStep,Hypothesis,0.9
+Scientific Method,hasStep,Experimentation,0.9
+Scientific Method,hasStep,Analysis,0.9
+Scientific Method,hasStep,Conclusion,0.9
+Metamorphosis (Butterfly),hasStep,Egg,0.9
+Metamorphosis (Butterfly),hasStep,Larva,0.9
+Metamorphosis (Butterfly),hasStep,Pupa,0.9
+Metamorphosis (Butterfly),hasStep,Adult,0.9
+Apple,isA,Fruit,0.95
+Apple,isA,Food,0.85
+Apple,hasQuality,Red,0.75
+Apple,hasQuality,Round,0.8
+Banana,isA,Fruit,0.95
+Banana,isA,Food,0.85
+Banana,hasQuality,Yellow,0.75
+Banana,hasQuality,Curved,0.8
+Orange,isA,Fruit,0.95
+Orange,isA,Food,0.85
+Orange,hasQuality,Orange,0.75
+Orange,hasQuality,Round,0.8
+Grape,isA,Fruit,0.95
+Grape,isA,Food,0.85
+Grape,hasQuality,Purple,0.75
+Grape,hasQuality,Round (Small),0.8
+Strawberry,isA,Fruit,0.95
+Strawberry,isA,Food,0.85
+Strawberry,hasQuality,Red,0.75
+Strawberry,hasQuality,Heart-Shaped,0.8
+Watermelon,isA,Fruit,0.95
+Watermelon,isA,Food,0.85
+Watermelon,hasQuality,Green,0.75
+Watermelon,hasQuality,Oval,0.8
+Pineapple,isA,Fruit,0.95
+Pineapple,isA,Food,0.85
+Pineapple,hasQuality,Brown,0.75
+Pineapple,hasQuality,Cylindrical,0.8
+Mango,isA,Fruit,0.95
+Mango,isA,Food,0.85
+Mango,hasQuality,Orange,0.75
+Mango,hasQuality,Oval,0.8
+Peach,isA,Fruit,0.95
+Peach,isA,Food,0.85
+Peach,hasQuality,Orange,0.75
+Peach,hasQuality,Round,0.8
+Pear,isA,Fruit,0.95
+Pear,isA,Food,0.85
+Pear,hasQuality,Green,0.75
+Pear,hasQuality,Pear-Shaped,0.8
+Cherry,isA,Fruit,0.95
+Cherry,isA,Food,0.85
+Cherry,hasQuality,Red,0.75
+Cherry,hasQuality,Round (Small),0.8
+Blueberry,isA,Fruit,0.95
+Blueberry,isA,Food,0.85
+Blueberry,hasQuality,Blue,0.75
+Blueberry,hasQuality,Round (Small),0.8
+Raspberry,isA,Fruit,0.95
+Raspberry,isA,Food,0.85
+Raspberry,hasQuality,Red,0.75
+Raspberry,hasQuality,"Round (Small, Aggregate)",0.8
+Blackberry,isA,Fruit,0.95
+Blackberry,isA,Food,0.85
+Blackberry,hasQuality,Black,0.75
+Blackberry,hasQuality,"Round (Small, Aggregate)",0.8
+Lemon,isA,Fruit,0.95
+Lemon,isA,Food,0.85
+Lemon,hasQuality,Yellow,0.75
+Lemon,hasQuality,Oval,0.8
+Lime,isA,Fruit,0.95
+Lime,isA,Food,0.85
+Lime,hasQuality,Green,0.75
+Lime,hasQuality,Oval (Small),0.8
+Kiwi,isA,Fruit,0.95
+Kiwi,isA,Food,0.85
+Kiwi,hasQuality,Brown,0.75
+Kiwi,hasQuality,Oval,0.8
+Papaya,isA,Fruit,0.95
+Papaya,isA,Food,0.85
+Papaya,hasQuality,Orange,0.75
+Papaya,hasQuality,Oval,0.8
+Coconut,isA,Fruit,0.95
+Coconut,isA,Food,0.85
+Coconut,hasQuality,Brown,0.75
+Coconut,hasQuality,Round,0.8
+Avocado,isA,Fruit,0.95
+Avocado,isA,Food,0.85
+Avocado,hasQuality,Green,0.75
+Avocado,hasQuality,Pear-Shaped,0.8
+Fig,isA,Fruit,0.95
+Fig,isA,Food,0.85
+Fig,hasQuality,Purple,0.75
+Fig,hasQuality,Teardrop-Shaped,0.8
+Pomegranate,isA,Fruit,0.95
+Pomegranate,isA,Food,0.85
+Pomegranate,hasQuality,Red,0.75
+Pomegranate,hasQuality,Round,0.8
+Plum,isA,Fruit,0.95
+Plum,isA,Food,0.85
+Plum,hasQuality,Purple,0.75
+Plum,hasQuality,Round,0.8
+Apricot,isA,Fruit,0.95
+Apricot,isA,Food,0.85
+Apricot,hasQuality,Orange,0.75
+Apricot,hasQuality,Round (Small),0.8
+Cantaloupe,isA,Fruit,0.95
+Cantaloupe,isA,Food,0.85
+Cantaloupe,hasQuality,Tan,0.75
+Cantaloupe,hasQuality,Round,0.8
+Honeydew Melon,isA,Fruit,0.95
+Honeydew Melon,isA,Food,0.85
+Honeydew Melon,hasQuality,Green,0.75
+Honeydew Melon,hasQuality,Round,0.8
+Cranberry,isA,Fruit,0.95
+Cranberry,isA,Food,0.85
+Cranberry,hasQuality,Red,0.75
+Cranberry,hasQuality,Round (Small),0.8
+Guava,isA,Fruit,0.95
+Guava,isA,Food,0.85
+Guava,hasQuality,Green,0.75
+Guava,hasQuality,Oval,0.8
+Dragon Fruit,isA,Fruit,0.95
+Dragon Fruit,isA,Food,0.85
+Dragon Fruit,hasQuality,Pink,0.75
+Dragon Fruit,hasQuality,Oval,0.8
+Passion Fruit,isA,Fruit,0.95
+Passion Fruit,isA,Food,0.85
+Passion Fruit,hasQuality,Purple,0.75
+Passion Fruit,hasQuality,Round (Small),0.8
+Star Fruit,isA,Fruit,0.95
+Star Fruit,isA,Food,0.85
+Star Fruit,hasQuality,Yellow,0.75
+Star Fruit,hasQuality,Star-Shaped,0.8
+Tangerine,isA,Fruit,0.95
+Tangerine,isA,Food,0.85
+Tangerine,hasQuality,Orange,0.75
+Tangerine,hasQuality,Round,0.8
+Grapefruit,isA,Fruit,0.95
+Grapefruit,isA,Food,0.85
+Grapefruit,hasQuality,Pink,0.75
+Grapefruit,hasQuality,Round,0.8
+Date,isA,Fruit,0.95
+Date,isA,Food,0.85
+Date,hasQuality,Brown,0.75
+Date,hasQuality,Oval (Elongated),0.8
+Lychee,isA,Fruit,0.95
+Lychee,isA,Food,0.85
+Lychee,hasQuality,Red,0.75
+Lychee,hasQuality,Round (Small),0.8
+Persimmon,isA,Fruit,0.95
+Persimmon,isA,Food,0.85
+Persimmon,hasQuality,Orange,0.75
+Persimmon,hasQuality,Round,0.8
+Fruit,isA,Food,0.85
+Carrot,isA,Vegetable,0.95
+Carrot,isA,Food,0.85
+Carrot,hasQuality,Orange,0.7
+Carrot,hasQuality,Elongated (Cone-Shaped),0.8
+Potato,isA,Vegetable,0.95
+Potato,isA,Food,0.85
+Potato,hasQuality,Brown,0.7
+Potato,hasQuality,Oval,0.8
+Tomato,isA,Vegetable,0.95
+Tomato,isA,Food,0.85
+Tomato,hasQuality,Red,0.7
+Tomato,hasQuality,Round,0.8
+Broccoli,isA,Vegetable,0.95
+Broccoli,isA,Food,0.85
+Broccoli,hasQuality,Green,0.7
+Broccoli,hasQuality,Tree-Shaped,0.8
+Cucumber,isA,Vegetable,0.95
+Cucumber,isA,Food,0.85
+Cucumber,hasQuality,Green,0.7
+Cucumber,hasQuality,Cylindrical,0.8
+Pumpkin,isA,Vegetable,0.95
+Pumpkin,isA,Food,0.85
+Pumpkin,hasQuality,Orange,0.7
+Pumpkin,hasQuality,Round,0.8
+Corn,isA,Vegetable,0.95
+Corn,isA,Food,0.85
+Corn,hasQuality,Yellow,0.7
+Corn,hasQuality,Cylindrical (Elongated),0.8
+Bell Pepper,isA,Vegetable,0.95
+Bell Pepper,isA,Food,0.85
+Bell Pepper,hasQuality,Red,0.7
+Bell Pepper,hasQuality,Bell-Shaped,0.8
+Onion,isA,Vegetable,0.95
+Onion,isA,Food,0.85
+Onion,hasQuality,White,0.7
+Onion,hasQuality,Round,0.8
+Garlic,isA,Vegetable,0.95
+Garlic,isA,Food,0.85
+Garlic,hasQuality,White,0.7
+Garlic,hasQuality,Round (Bulb),0.8
+Eggplant,isA,Vegetable,0.95
+Eggplant,isA,Food,0.85
+Eggplant,hasQuality,Purple,0.7
+Eggplant,hasQuality,Oval,0.8
+Pea,isA,Vegetable,0.95
+Pea,isA,Food,0.85
+Pea,hasQuality,Green,0.7
+Pea,hasQuality,Round (Small),0.8
+Lettuce,isA,Vegetable,0.95
+Lettuce,isA,Food,0.85
+Lettuce,hasQuality,Green,0.7
+Lettuce,hasQuality,Round (Leafy),0.8
+Spinach,isA,Vegetable,0.95
+Spinach,isA,Food,0.85
+Spinach,hasQuality,Green,0.7
+Spinach,hasQuality,Leafy,0.8
+Cabbage,isA,Vegetable,0.95
+Cabbage,isA,Food,0.85
+Cabbage,hasQuality,Green,0.7
+Cabbage,hasQuality,Round,0.8
+Cauliflower,isA,Vegetable,0.95
+Cauliflower,isA,Food,0.85
+Cauliflower,hasQuality,White,0.7
+Cauliflower,hasQuality,Round,0.8
+Radish,isA,Vegetable,0.95
+Radish,isA,Food,0.85
+Radish,hasQuality,Red,0.7
+Radish,hasQuality,Round (Small),0.8
+Beet,isA,Vegetable,0.95
+Beet,isA,Food,0.85
+Beet,hasQuality,Purple,0.7
+Beet,hasQuality,Round,0.8
+Zucchini,isA,Vegetable,0.95
+Zucchini,isA,Food,0.85
+Zucchini,hasQuality,Green,0.7
+Zucchini,hasQuality,Cylindrical,0.8
+Sweet Potato,isA,Vegetable,0.95
+Sweet Potato,isA,Food,0.85
+Sweet Potato,hasQuality,Orange,0.7
+Sweet Potato,hasQuality,Oval,0.8
+Celery,isA,Vegetable,0.95
+Celery,isA,Food,0.85
+Celery,hasQuality,Green,0.7
+Celery,hasQuality,Elongated,0.8
+Asparagus,isA,Vegetable,0.95
+Asparagus,isA,Food,0.85
+Asparagus,hasQuality,Green,0.7
+Asparagus,hasQuality,Elongated,0.8
+Artichoke,isA,Vegetable,0.95
+Artichoke,isA,Food,0.85
+Artichoke,hasQuality,Green,0.7
+Artichoke,hasQuality,Round,0.8
+Squash,isA,Vegetable,0.95
+Squash,isA,Food,0.85
+Squash,hasQuality,Yellow,0.7
+Squash,hasQuality,Oval,0.8
+Leek,isA,Vegetable,0.95
+Leek,isA,Food,0.85
+Leek,hasQuality,White,0.7
+Leek,hasQuality,Elongated,0.8
+Turnip,isA,Vegetable,0.95
+Turnip,isA,Food,0.85
+Turnip,hasQuality,Purple,0.7
+Turnip,hasQuality,Round,0.8
+Vegetable,isA,Food,0.85
+Stop Sign,isA,Traffic Sign,0.85
+Stop Sign,isA,Object,0.75
+Stop Sign,hasQuality,Red,0.7
+Stop Sign,hasQuality,Octagonal,0.8
+Yield Sign,isA,Traffic Sign,0.85
+Yield Sign,isA,Object,0.75
+Yield Sign,hasQuality,Yellow,0.7
+Yield Sign,hasQuality,Triangular,0.8
+Traffic Cone,isA,Safety Equipment,0.85
+Traffic Cone,isA,Object,0.75
+Traffic Cone,hasQuality,Orange,0.7
+Traffic Cone,hasQuality,Cone-Shaped,0.8
+Basketball,isA,Sports Equipment,0.85
+Basketball,isA,Object,0.75
+Basketball,hasQuality,Orange,0.7
+Basketball,hasQuality,Round (Sphere),0.8
+Tennis Ball,isA,Sports Equipment,0.85
+Tennis Ball,isA,Object,0.75
+Tennis Ball,hasQuality,Yellow-Green,0.7
+Tennis Ball,hasQuality,Round (Sphere),0.8
+Baseball,isA,Sports Equipment,0.85
+Baseball,isA,Object,0.75
+Baseball,hasQuality,White,0.7
+Baseball,hasQuality,Round (Sphere),0.8
+Golf Ball,isA,Sports Equipment,0.85
+Golf Ball,isA,Object,0.75
+Golf Ball,hasQuality,White,0.7
+Golf Ball,hasQuality,Round (Sphere),0.8
+American Football,isA,Sports Equipment,0.85
+American Football,isA,Object,0.75
+American Football,hasQuality,Brown,0.7
+American Football,hasQuality,Oval (Prolate Spheroid),0.8
+Volleyball,isA,Sports Equipment,0.85
+Volleyball,isA,Object,0.75
+Volleyball,hasQuality,White,0.7
+Volleyball,hasQuality,Round (Sphere),0.8
+Hockey Puck,isA,Sports Equipment,0.85
+Hockey Puck,isA,Object,0.75
+Hockey Puck,hasQuality,Black,0.7
+Hockey Puck,hasQuality,Cylindrical (Disk),0.8
+Chessboard,isA,Game Equipment,0.85
+Chessboard,isA,Object,0.75
+Chessboard,hasQuality,Black and White,0.7
+Chessboard,hasQuality,Square,0.8
+Domino,isA,Game Equipment,0.85
+Domino,isA,Object,0.75
+Domino,hasQuality,White,0.7
+Domino,hasQuality,Rectangular,0.8
+Dice,isA,Game Equipment,0.85
+Dice,isA,Object,0.75
+Dice,hasQuality,White,0.7
+Dice,hasQuality,Cube-Shaped,0.8
+Playing Card,isA,Game Equipment,0.85
+Playing Card,isA,Object,0.75
+Playing Card,hasQuality,Rectangular,0.8
+Pencil,isA,Stationery,0.85
+Pencil,isA,Object,0.75
+Pencil,hasQuality,Yellow,0.7
+Pencil,hasQuality,Cylindrical,0.8
+Eraser,isA,Stationery,0.85
+Eraser,isA,Object,0.75
+Eraser,hasQuality,Pink,0.7
+Eraser,hasQuality,Rectangular,0.8
+Ruler,isA,Stationery,0.85
+Ruler,isA,Object,0.75
+Ruler,hasQuality,Rectangular,0.8
+Envelope,isA,Stationery,0.85
+Envelope,isA,Object,0.75
+Envelope,hasQuality,White,0.7
+Envelope,hasQuality,Rectangular,0.8
+Book,isA,Stationery,0.85
+Book,isA,Object,0.75
+Book,hasQuality,Rectangular,0.8
+Blackboard,isA,School Equipment,0.85
+Blackboard,isA,Object,0.75
+Blackboard,hasQuality,Black,0.7
+Blackboard,hasQuality,Rectangular,0.8
+Whiteboard,isA,School Equipment,0.85
+Whiteboard,isA,Object,0.75
+Whiteboard,hasQuality,White,0.7
+Whiteboard,hasQuality,Rectangular,0.8
+School Bus,isA,Vehicle,0.85
+School Bus,isA,Object,0.75
+School Bus,hasQuality,Yellow,0.7
+School Bus,hasQuality,Rectangular (Box-Shaped),0.8
+Fire Truck,isA,Vehicle,0.85
+Fire Truck,isA,Object,0.75
+Fire Truck,hasQuality,Red,0.7
+Fire Hydrant,isA,Safety Equipment,0.85
+Fire Hydrant,isA,Object,0.75
+Fire Hydrant,hasQuality,Red,0.7
+Brick,isA,Building Material,0.85
+Brick,isA,Object,0.75
+Brick,hasQuality,Red,0.7
+Brick,hasQuality,Rectangular,0.8
+Snowflake,isA,Natural Object,0.85
+Snowflake,isA,Object,0.75
+Snowflake,hasQuality,White,0.7
+Snowflake,hasQuality,Hexagonal,0.8
+Honeycomb,isA,Natural Object,0.85
+Honeycomb,isA,Object,0.75
+Honeycomb,hasQuality,Yellow,0.7
+Honeycomb,hasQuality,Hexagonal,0.8
+Sun,isA,Celestial Body,0.85
+Sun,isA,Object,0.75
+Sun,hasQuality,Yellow,0.7
+Sun,hasQuality,Round (Sphere),0.8
+Moon,isA,Celestial Body,0.85
+Moon,isA,Object,0.75
+Moon,hasQuality,Gray,0.7
+Moon,hasQuality,Round (Sphere),0.8
+Vinyl Record,isA,Media,0.85
+Vinyl Record,isA,Object,0.75
+Vinyl Record,hasQuality,Black,0.7
+Vinyl Record,hasQuality,Round (Disk),0.8
+Compact Disc,isA,Media,0.85
+Compact Disc,isA,Object,0.75
+Compact Disc,hasQuality,Silver,0.7
+Compact Disc,hasQuality,Round (Disk),0.8
+Traffic Light,isA,Signal Equipment,0.85
+Traffic Light,isA,Object,0.75
+Traffic Light,hasQuality,Rectangular,0.8
+Umbrella,isA,Household Item,0.85
+Umbrella,isA,Object,0.75
+Umbrella,hasQuality,Dome-Shaped,0.8
+Clock (Analog),isA,Household Item,0.85
+Clock (Analog),isA,Object,0.75
+Clock (Analog),hasQuality,Round (Circular),0.8
+Mirror,isA,Household Item,0.85
+Mirror,isA,Object,0.75
+Mirror,hasQuality,Rectangular,0.8
+Pillow,isA,Household Item,0.85
+Pillow,isA,Object,0.75
+Pillow,hasQuality,Rectangular,0.8
+Ice Cream Cone,isA,Food Container,0.85
+Ice Cream Cone,isA,Object,0.75
+Ice Cream Cone,hasQuality,Tan,0.7
+Ice Cream Cone,hasQuality,Cone-Shaped,0.8
+Pizza,isA,Food,0.85
+Pizza,isA,Object,0.75
+Pizza,hasQuality,Round (Circular),0.8
+Pizza Slice,isA,Food,0.85
+Pizza Slice,isA,Object,0.75
+Pizza Slice,hasQuality,Triangular,0.8
+Egg,isA,Food,0.85
+Egg,isA,Object,0.75
+Egg,hasQuality,White,0.7
+Egg,hasQuality,Oval,0.8
+Slice of Watermelon,isA,Food,0.85
+Slice of Watermelon,isA,Object,0.75
+Slice of Watermelon,hasQuality,Red and Green,0.7
+Slice of Watermelon,hasQuality,Triangular,0.8
+Rainbow,isA,Natural Object,0.85
+Rainbow,isA,Object,0.75
+Rainbow,hasQuality,Multicolored,0.7
+Rainbow,hasQuality,Arc-Shaped,0.8
+Building Material,isA,Object,0.75
+Celestial Body,isA,Object,0.75
+Food,isA,Object,0.75
+Food Container,isA,Object,0.75
+Game Equipment,isA,Object,0.75
+Household Item,isA,Object,0.75
+Media,isA,Object,0.75
+Natural Object,isA,Object,0.75
+Safety Equipment,isA,Object,0.75
+School Equipment,isA,Object,0.75
+Signal Equipment,isA,Object,0.75
+Sports Equipment,isA,Object,0.75
+Stationery,isA,Object,0.75
+Traffic Sign,isA,Object,0.75
+Vehicle,isA,Object,0.75
+Traffic Barrel,isA,Safety Equipment,0.85
+Traffic Barrel,isA,Object,0.75
+Traffic Barrel,hasQuality,Orange,0.7
+Traffic Barrel,hasQuality,Cylindrical,0.8
+Life Preserver,isA,Safety Equipment,0.85
+Life Preserver,isA,Object,0.75
+Life Preserver,hasQuality,Orange,0.7
+Life Preserver,hasQuality,Ring-Shaped,0.8
+Manhole Cover,isA,Infrastructure,0.85
+Manhole Cover,isA,Object,0.75
+Manhole Cover,hasQuality,Gray,0.7
+Manhole Cover,hasQuality,Round (Circular),0.8
+Tire,isA,Vehicle Part,0.85
+Tire,isA,Object,0.75
+Tire,hasQuality,Black,0.7
+Tire,hasQuality,Round (Circular),0.8
+License Plate,isA,Vehicle Part,0.85
+License Plate,isA,Object,0.75
+License Plate,hasQuality,Rectangular,0.8
+Piano Key,isA,Musical Instrument Part,0.85
+Piano Key,isA,Object,0.75
+Piano Key,hasQuality,Black and White,0.7
+Piano Key,hasQuality,Rectangular,0.8
+Drum,isA,Musical Instrument,0.85
+Drum,isA,Object,0.75
+Drum,hasQuality,Cylindrical,0.8
+Recycling Bin,isA,Household Item,0.85
+Recycling Bin,isA,Object,0.75
+Recycling Bin,hasQuality,Blue,0.7
+Recycling Bin,hasQuality,Cylindrical,0.8
+Trash Can,isA,Household Item,0.85
+Trash Can,isA,Object,0.75
+Trash Can,hasQuality,Black,0.7
+Basketball Hoop,isA,Sports Equipment,0.85
+Basketball Hoop,isA,Object,0.75
+Basketball Hoop,hasQuality,Orange,0.7
+Basketball Hoop,hasQuality,Round (Circular),0.8
+Soccer Ball,isA,Sports Equipment,0.85
+Soccer Ball,isA,Object,0.75
+Soccer Ball,hasQuality,White,0.7
+Soccer Ball,hasQuality,Round (Sphere),0.8
+Bowling Ball,isA,Sports Equipment,0.85
+Bowling Ball,isA,Object,0.75
+Bowling Ball,hasQuality,Black,0.7
+Bowling Ball,hasQuality,Round (Sphere),0.8
+Frisbee,isA,Sports Equipment,0.85
+Frisbee,isA,Object,0.75
+Frisbee,hasQuality,Round (Disk),0.8
+Traffic Barrier,isA,Safety Equipment,0.85
+Traffic Barrier,isA,Object,0.75
+Traffic Barrier,hasQuality,Orange and White,0.7
+Ice Cube Tray,isA,Kitchenware,0.85
+Ice Cube Tray,isA,Object,0.75
+Ice Cube Tray,hasQuality,Rectangular,0.8
+Infrastructure,isA,Object,0.75
+Kitchenware,isA,Object,0.75
+Musical Instrument,isA,Object,0.75
+Musical Instrument Part,isA,Object,0.75
+Vehicle Part,isA,Object,0.75
+Brussels Sprouts,isA,Vegetable,0.95
+Brussels Sprouts,isA,Food,0.85
+Brussels Sprouts,hasQuality,Green,0.7
+Brussels Sprouts,hasQuality,Round (Small),0.8
+Okra,isA,Vegetable,0.95
+Okra,isA,Food,0.85
+Okra,hasQuality,Green,0.7
+Okra,hasQuality,Elongated,0.8
+Kale,isA,Vegetable,0.95
+Kale,isA,Food,0.85
+Kale,hasQuality,Green,0.7
+Kale,hasQuality,Leafy,0.8
+Bok Choy,isA,Vegetable,0.95
+Bok Choy,isA,Food,0.85
+Bok Choy,hasQuality,Green,0.7
+Bok Choy,hasQuality,Leafy,0.8
+Butternut Squash,isA,Vegetable,0.95
+Butternut Squash,isA,Food,0.85
+Butternut Squash,hasQuality,Tan,0.7
+Butternut Squash,hasQuality,Elongated (Bulbous),0.8
+Parsnip,isA,Vegetable,0.95
+Parsnip,isA,Food,0.85
+Parsnip,hasQuality,Cream,0.7
+Parsnip,hasQuality,Elongated (Cone-Shaped),0.8

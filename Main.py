@@ -7,9 +7,10 @@ from sklearn.metrics import classification_report
 import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
-import spacy
+# import spacy
+import stanza
 
-nlp = spacy.load("en_core_web_md")
+nlp = stanza.Pipeline("en", download_method="reuse_resources")
 
 texts = [
     # EXPLAIN
@@ -194,9 +195,9 @@ def findConnection(G, data, intent=None):
     if not (data.get("subj") and data.get("obj") and data.get("comp")):
         return "unknown."
     if intent == "DESCRIBE":
-        relations=["isA", "hasQuality", "contains"]
+        relations = ["isA", "hasQuality", "contains"]
     elif intent == "EXPLAIN":
-        relations=["causedBy"]
+        relations = ["causedBy"]
     elif intent == "LOCATION":
         relations = ["isIn", "hasInstance"]
     elif intent == "PROCESS":
@@ -204,29 +205,21 @@ def findConnection(G, data, intent=None):
     else:
         return "Unknown intention"
 
+def diagScore(h: list, r: list, t: list):
+    """ This is the scoring function for determining output, it is based on DistMult
+        h: starting entity -> word vector
+        r: list of possible relations based on intent -> list of vectors
+        t: list of possible response vectors -> list of vectors
+        """
+    return np.sum(h * r * t, axis=-1)
 
 
 
 def pipeLine(i: list):
     intent = best_model.predict(i)
     doc = nlp(i[0])
-    keywords = [tok.text for tok in doc if tok.pos_ in ("NOUN", "PROPN", "ADJ") and not tok.is_stop]
-    subject = ""
-    obj = ""
-    comp = ""
+    print(doc)
 
-    for tok in doc:
-        if tok.dep_ in ("nsubj", "nsubjpass"):
-            subject = tok.text
-            # print(subject)
-        if tok.dep_ in ("dobj", "attr", "pobj"):
-            obj = tok.text
-            # print(obj)
-        if tok.dep_ == "compound":
-            comp = tok.text
-
-    return {"subj": subject, "obj": obj, "comp": comp}
-
-keyword = pipeLine(["what color is an apple?"])
+# keyword = pipeLine(["how does a car work?"])
 # print(keyword)
 # findConnection(G, "Fruit", "Apple")

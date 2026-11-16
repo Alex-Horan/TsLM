@@ -6,28 +6,35 @@ from sklearn.metrics import classification_report
 from sklearn.model_selection import GridSearchCV, train_test_split
 from cog.torque import Graph
 import pandas as pd
-import matplotlib.pyplot as plt
 import stanza
 import re
 
 nlp = stanza.Pipeline("en", processors="tokenize,pos,lemma,depparse", download_method="reuse_resources")
 df = pd.read_csv("graph_data.csv", header=None, names=["a", "relation", "b"])
 
+
 text = pd.read_csv("intent_training.csv", usecols=['text'])
 labels = pd.read_csv("intent_training.csv", usecols=["label"])
 text = text.values.flatten().tolist()
 labels = labels.values.flatten().tolist()
 
+# normalizes the format of strings for data
+def norm(s):
+    return re.sub(r"\s+", " ", str(s).replace("_", " ").strip().lower())
+
+df = df.map(norm)
+
+
 unseen = [
-    "Could you explain what a data warehouse is?",
-    "In which region can the Amazon rainforest be found?",
-    "What causes a rainbow to appear after rainfall?",
-    "What steps does a compiler follow to convert source code?",
-    "Can you tell me where the headquarters of the World Health Organization is?"
+    "What is an apple?",
+    "What is a cylinder a part of?",
+    "what is the cause of lava flow?",
+    "what is snow?",
+    "where is Paris?"
 ]
 
 #these words are skipped when going through the nlp pipeline because it just makes it take longer and adds no additional information
-SKIP = {"what", "who", "when", "were", "why", "how", "you", "me", "i", "it"}
+SKIP = {"what", "who", "when", "where", "why", "how", "you", "me", "i", "it"}
 
 INTENT_RELATIONS = {
     "EXPLAIN":  ["is a"],
@@ -43,11 +50,8 @@ KNOWN_ENTITIES = set(df["a"]) | set(df["b"])
 
 # --------------- DEFINITIONS -------------------------
 
-G = Graph("kg")
+G = Graph("new_kg")
 
-# normalizes the format of strings for data
-def norm(s):
-    return re.sub(r"\s+", " ", str(s).replace("_", " ").strip().lower())
 
 X_train, X_test, y_train, y_test = train_test_split(text, labels, test_size=0.25, random_state=67)
 
@@ -69,13 +73,12 @@ grid.fit(X_train, y_train)
 
 
 
-
 def populateGraph(graph):
     for i in range(len(df)):
         a, r, b = df.iloc[i]["a"], df.iloc[i]["relation"], df.iloc[i]["b"]
         graph.put(a, r, b)
 
-
+populateGraph(G)
 
 # -------------------- Subject extracting -----------------------------------
 def noun_phrase(sent, head):
@@ -112,7 +115,7 @@ rel_stats = G.vectorize(rel_words)
 
 def embed(text):
     """fetch a vector by exact string (normalized)"""
-    v = G.get_embeddding(norm(text))
+    v = G.get_embedding(norm(text))
     return np.array(v, dtype=float) if v is not None else None
 
 def rel_embed(rel):
@@ -127,8 +130,8 @@ def distmult(a,r,b):
 # ---------------- Answering -------------
 
 best_model = grid.best_estimator_
-# y_pred = best_model.predict(X_test)
-# print(classification_report(y_test, y_pred))
+y_pred = best_model.predict(X_test)
+print(classification_report(y_test, y_pred))
 
 def answer(sentence, top_k=3):
     intent = best_model.predict([sentence])[0].upper()

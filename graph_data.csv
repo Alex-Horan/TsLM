@@ -1,0 +1,2001 @@
+,A,RELATION,B
+0,Dog,isA,Mammal
+1,Dog,isA,Animal
+2,Cat,isA,Mammal
+3,Cat,isA,Animal
+4,Whale,isA,Mammal
+5,Whale,isA,Animal
+6,Dolphin,isA,Mammal
+7,Dolphin,isA,Animal
+8,Elephant,isA,Mammal
+9,Elephant,isA,Animal
+10,Lion,isA,Mammal
+11,Lion,isA,Animal
+12,Tiger,isA,Mammal
+13,Tiger,isA,Animal
+14,Horse,isA,Mammal
+15,Horse,isA,Animal
+16,Bat,isA,Mammal
+17,Bat,isA,Animal
+18,Kangaroo,isA,Mammal
+19,Kangaroo,isA,Animal
+20,Human,isA,Mammal
+21,Human,isA,Animal
+22,Gorilla,isA,Mammal
+23,Gorilla,isA,Animal
+24,Chimpanzee,isA,Mammal
+25,Chimpanzee,isA,Animal
+26,Rabbit,isA,Mammal
+27,Rabbit,isA,Animal
+28,Mouse,isA,Mammal
+29,Mouse,isA,Animal
+30,Wolf,isA,Mammal
+31,Wolf,isA,Animal
+32,Bear,isA,Mammal
+33,Bear,isA,Animal
+34,Giraffe,isA,Mammal
+35,Giraffe,isA,Animal
+36,Zebra,isA,Mammal
+37,Zebra,isA,Animal
+38,Platypus,isA,Mammal
+39,Platypus,isA,Animal
+40,Eagle,isA,Bird
+41,Eagle,isA,Animal
+42,Penguin,isA,Bird
+43,Penguin,isA,Animal
+44,Ostrich,isA,Bird
+45,Ostrich,isA,Animal
+46,Sparrow,isA,Bird
+47,Sparrow,isA,Animal
+48,Owl,isA,Bird
+49,Owl,isA,Animal
+50,Parrot,isA,Bird
+51,Parrot,isA,Animal
+52,Flamingo,isA,Bird
+53,Flamingo,isA,Animal
+54,Hummingbird,isA,Bird
+55,Hummingbird,isA,Animal
+56,Crow,isA,Bird
+57,Crow,isA,Animal
+58,Peacock,isA,Bird
+59,Peacock,isA,Animal
+60,Swan,isA,Bird
+61,Swan,isA,Animal
+62,Falcon,isA,Bird
+63,Falcon,isA,Animal
+64,Salmon,isA,Fish
+65,Salmon,isA,Animal
+66,Shark,isA,Fish
+67,Shark,isA,Animal
+68,Goldfish,isA,Fish
+69,Goldfish,isA,Animal
+70,Tuna,isA,Fish
+71,Tuna,isA,Animal
+72,Clownfish,isA,Fish
+73,Clownfish,isA,Animal
+74,Catfish,isA,Fish
+75,Catfish,isA,Animal
+76,Eel,isA,Fish
+77,Eel,isA,Animal
+78,Seahorse,isA,Fish
+79,Seahorse,isA,Animal
+80,Snake,isA,Reptile
+81,Snake,isA,Animal
+82,Lizard,isA,Reptile
+83,Lizard,isA,Animal
+84,Crocodile,isA,Reptile
+85,Crocodile,isA,Animal
+86,Turtle,isA,Reptile
+87,Turtle,isA,Animal
+88,Alligator,isA,Reptile
+89,Alligator,isA,Animal
+90,Chameleon,isA,Reptile
+91,Chameleon,isA,Animal
+92,Gecko,isA,Reptile
+93,Gecko,isA,Animal
+94,Iguana,isA,Reptile
+95,Iguana,isA,Animal
+96,Frog,isA,Amphibian
+97,Frog,isA,Animal
+98,Toad,isA,Amphibian
+99,Toad,isA,Animal
+100,Salamander,isA,Amphibian
+101,Salamander,isA,Animal
+102,Newt,isA,Amphibian
+103,Newt,isA,Animal
+104,Ant,isA,Insect
+105,Ant,isA,Animal
+106,Bee,isA,Insect
+107,Bee,isA,Animal
+108,Butterfly,isA,Insect
+109,Butterfly,isA,Animal
+110,Beetle,isA,Insect
+111,Beetle,isA,Animal
+112,Grasshopper,isA,Insect
+113,Grasshopper,isA,Animal
+114,Mosquito,isA,Insect
+115,Mosquito,isA,Animal
+116,Dragonfly,isA,Insect
+117,Dragonfly,isA,Animal
+118,Termite,isA,Insect
+119,Termite,isA,Animal
+120,Spider,isA,Arachnid
+121,Spider,isA,Animal
+122,Scorpion,isA,Arachnid
+123,Scorpion,isA,Animal
+124,Tick,isA,Arachnid
+125,Tick,isA,Animal
+126,Octopus,isA,Cephalopod
+127,Octopus,isA,Animal
+128,Squid,isA,Cephalopod
+129,Squid,isA,Animal
+130,Crab,isA,Crustacean
+131,Crab,isA,Animal
+132,Lobster,isA,Crustacean
+133,Lobster,isA,Animal
+134,Shrimp,isA,Crustacean
+135,Shrimp,isA,Animal
+136,Jellyfish,isA,Cnidarian
+137,Jellyfish,isA,Animal
+138,Coral,isA,Cnidarian
+139,Coral,isA,Animal
+140,Snail,isA,Mollusk
+141,Snail,isA,Animal
+142,Clam,isA,Mollusk
+143,Clam,isA,Animal
+144,Oyster,isA,Mollusk
+145,Oyster,isA,Animal
+146,Earthworm,isA,Annelid
+147,Earthworm,isA,Animal
+148,Starfish,isA,Echinoderm
+149,Starfish,isA,Animal
+150,Sea Urchin,isA,Echinoderm
+151,Sea Urchin,isA,Animal
+152,Camel,isA,Mammal
+153,Camel,isA,Animal
+154,Hippopotamus,isA,Mammal
+155,Hippopotamus,isA,Animal
+156,Rhinoceros,isA,Mammal
+157,Rhinoceros,isA,Animal
+158,Panda,isA,Mammal
+159,Panda,isA,Animal
+160,Koala,isA,Mammal
+161,Koala,isA,Animal
+162,Otter,isA,Mammal
+163,Otter,isA,Animal
+164,Beaver,isA,Mammal
+165,Beaver,isA,Animal
+166,Squirrel,isA,Mammal
+167,Squirrel,isA,Animal
+168,Deer,isA,Mammal
+169,Deer,isA,Animal
+170,Moose,isA,Mammal
+171,Moose,isA,Animal
+172,Bison,isA,Mammal
+173,Bison,isA,Animal
+174,Raccoon,isA,Mammal
+175,Raccoon,isA,Animal
+176,Skunk,isA,Mammal
+177,Skunk,isA,Animal
+178,Hedgehog,isA,Mammal
+179,Hedgehog,isA,Animal
+180,Meerkat,isA,Mammal
+181,Meerkat,isA,Animal
+182,Seal,isA,Mammal
+183,Seal,isA,Animal
+184,Walrus,isA,Mammal
+185,Walrus,isA,Animal
+186,Manatee,isA,Mammal
+187,Manatee,isA,Animal
+188,Fox,isA,Mammal
+189,Fox,isA,Animal
+190,Cow,isA,Mammal
+191,Cow,isA,Animal
+192,Pig,isA,Mammal
+193,Pig,isA,Animal
+194,Sheep,isA,Mammal
+195,Sheep,isA,Animal
+196,Goat,isA,Mammal
+197,Goat,isA,Animal
+198,Llama,isA,Mammal
+199,Llama,isA,Animal
+200,Alpaca,isA,Mammal
+201,Alpaca,isA,Animal
+202,Toucan,isA,Bird
+203,Toucan,isA,Animal
+204,Woodpecker,isA,Bird
+205,Woodpecker,isA,Animal
+206,Pelican,isA,Bird
+207,Pelican,isA,Animal
+208,Seagull,isA,Bird
+209,Seagull,isA,Animal
+210,Robin,isA,Bird
+211,Robin,isA,Animal
+212,Cardinal,isA,Bird
+213,Cardinal,isA,Animal
+214,Blue Jay,isA,Bird
+215,Blue Jay,isA,Animal
+216,Kingfisher,isA,Bird
+217,Kingfisher,isA,Animal
+218,Vulture,isA,Bird
+219,Vulture,isA,Animal
+220,Hawk,isA,Bird
+221,Hawk,isA,Animal
+222,Heron,isA,Bird
+223,Heron,isA,Animal
+224,Stork,isA,Bird
+225,Stork,isA,Animal
+226,Swordfish,isA,Fish
+227,Swordfish,isA,Animal
+228,Anglerfish,isA,Fish
+229,Anglerfish,isA,Animal
+230,Pufferfish,isA,Fish
+231,Pufferfish,isA,Animal
+232,Flounder,isA,Fish
+233,Flounder,isA,Animal
+234,Marlin,isA,Fish
+235,Marlin,isA,Animal
+236,Stingray,isA,Fish
+237,Stingray,isA,Animal
+238,Guppy,isA,Fish
+239,Guppy,isA,Animal
+240,Komodo Dragon,isA,Reptile
+241,Komodo Dragon,isA,Animal
+242,Cobra,isA,Reptile
+243,Cobra,isA,Animal
+244,Python,isA,Reptile
+245,Python,isA,Animal
+246,Viper,isA,Reptile
+247,Viper,isA,Animal
+248,Tortoise,isA,Reptile
+249,Tortoise,isA,Animal
+250,Axolotl,isA,Amphibian
+251,Axolotl,isA,Animal
+252,Ladybug,isA,Insect
+253,Ladybug,isA,Animal
+254,Cricket,isA,Insect
+255,Cricket,isA,Animal
+256,Moth,isA,Insect
+257,Moth,isA,Animal
+258,Firefly,isA,Insect
+259,Firefly,isA,Animal
+260,Cicada,isA,Insect
+261,Cicada,isA,Animal
+262,Praying Mantis,isA,Insect
+263,Praying Mantis,isA,Animal
+264,Amphibian,isA,Animal
+265,Annelid,isA,Animal
+266,Arachnid,isA,Animal
+267,Bird,isA,Animal
+268,Cephalopod,isA,Animal
+269,Cnidarian,isA,Animal
+270,Crustacean,isA,Animal
+271,Echinoderm,isA,Animal
+272,Fish,isA,Animal
+273,Insect,isA,Animal
+274,Mammal,isA,Animal
+275,Mollusk,isA,Animal
+276,Reptile,isA,Animal
+277,Hydrogen,isA,Nonmetal
+278,Hydrogen,isA,Chemical Element
+279,Hydrogen,isA,Matter
+280,Helium,isA,Noble Gas
+281,Helium,isA,Chemical Element
+282,Helium,isA,Matter
+283,Lithium,isA,Alkali Metal
+284,Lithium,isA,Chemical Element
+285,Lithium,isA,Matter
+286,Beryllium,isA,Alkaline Earth Metal
+287,Beryllium,isA,Chemical Element
+288,Beryllium,isA,Matter
+289,Carbon,isA,Nonmetal
+290,Carbon,isA,Chemical Element
+291,Carbon,isA,Matter
+292,Nitrogen,isA,Nonmetal
+293,Nitrogen,isA,Chemical Element
+294,Nitrogen,isA,Matter
+295,Oxygen,isA,Nonmetal
+296,Oxygen,isA,Chemical Element
+297,Oxygen,isA,Matter
+298,Fluorine,isA,Halogen
+299,Fluorine,isA,Chemical Element
+300,Fluorine,isA,Matter
+301,Neon,isA,Noble Gas
+302,Neon,isA,Chemical Element
+303,Neon,isA,Matter
+304,Sodium,isA,Alkali Metal
+305,Sodium,isA,Chemical Element
+306,Sodium,isA,Matter
+307,Magnesium,isA,Alkaline Earth Metal
+308,Magnesium,isA,Chemical Element
+309,Magnesium,isA,Matter
+310,Aluminum,isA,Metal
+311,Aluminum,isA,Chemical Element
+312,Aluminum,isA,Matter
+313,Silicon,isA,Metalloid
+314,Silicon,isA,Chemical Element
+315,Silicon,isA,Matter
+316,Phosphorus,isA,Nonmetal
+317,Phosphorus,isA,Chemical Element
+318,Phosphorus,isA,Matter
+319,Sulfur,isA,Nonmetal
+320,Sulfur,isA,Chemical Element
+321,Sulfur,isA,Matter
+322,Chlorine,isA,Halogen
+323,Chlorine,isA,Chemical Element
+324,Chlorine,isA,Matter
+325,Argon,isA,Noble Gas
+326,Argon,isA,Chemical Element
+327,Argon,isA,Matter
+328,Potassium,isA,Alkali Metal
+329,Potassium,isA,Chemical Element
+330,Potassium,isA,Matter
+331,Calcium,isA,Alkaline Earth Metal
+332,Calcium,isA,Chemical Element
+333,Calcium,isA,Matter
+334,Iron,isA,Metal
+335,Iron,isA,Chemical Element
+336,Iron,isA,Matter
+337,Copper,isA,Metal
+338,Copper,isA,Chemical Element
+339,Copper,isA,Matter
+340,Zinc,isA,Metal
+341,Zinc,isA,Chemical Element
+342,Zinc,isA,Matter
+343,Silver,isA,Metal
+344,Silver,isA,Chemical Element
+345,Silver,isA,Matter
+346,Gold,isA,Metal
+347,Gold,isA,Chemical Element
+348,Gold,isA,Matter
+349,Mercury,isA,Metal
+350,Mercury,isA,Chemical Element
+351,Mercury,isA,Matter
+352,Lead,isA,Metal
+353,Lead,isA,Chemical Element
+354,Lead,isA,Matter
+355,Tin,isA,Metal
+356,Tin,isA,Chemical Element
+357,Tin,isA,Matter
+358,Nickel,isA,Metal
+359,Nickel,isA,Chemical Element
+360,Nickel,isA,Matter
+361,Platinum,isA,Metal
+362,Platinum,isA,Chemical Element
+363,Platinum,isA,Matter
+364,Titanium,isA,Metal
+365,Titanium,isA,Chemical Element
+366,Titanium,isA,Matter
+367,Chromium,isA,Metal
+368,Chromium,isA,Chemical Element
+369,Chromium,isA,Matter
+370,Manganese,isA,Metal
+371,Manganese,isA,Chemical Element
+372,Manganese,isA,Matter
+373,Arsenic,isA,Metalloid
+374,Arsenic,isA,Chemical Element
+375,Arsenic,isA,Matter
+376,Boron,isA,Metalloid
+377,Boron,isA,Chemical Element
+378,Boron,isA,Matter
+379,Germanium,isA,Metalloid
+380,Germanium,isA,Chemical Element
+381,Germanium,isA,Matter
+382,Bromine,isA,Halogen
+383,Bromine,isA,Chemical Element
+384,Bromine,isA,Matter
+385,Iodine,isA,Halogen
+386,Iodine,isA,Chemical Element
+387,Iodine,isA,Matter
+388,Krypton,isA,Noble Gas
+389,Krypton,isA,Chemical Element
+390,Krypton,isA,Matter
+391,Xenon,isA,Noble Gas
+392,Xenon,isA,Chemical Element
+393,Xenon,isA,Matter
+394,Radon,isA,Noble Gas
+395,Radon,isA,Chemical Element
+396,Radon,isA,Matter
+397,Uranium,isA,Metal
+398,Uranium,isA,Chemical Element
+399,Uranium,isA,Matter
+400,Cobalt,isA,Metal
+401,Cobalt,isA,Chemical Element
+402,Cobalt,isA,Matter
+403,Tungsten,isA,Metal
+404,Tungsten,isA,Chemical Element
+405,Tungsten,isA,Matter
+406,Barium,isA,Alkaline Earth Metal
+407,Barium,isA,Chemical Element
+408,Barium,isA,Matter
+409,Cesium,isA,Alkali Metal
+410,Cesium,isA,Chemical Element
+411,Cesium,isA,Matter
+412,Radium,isA,Alkaline Earth Metal
+413,Radium,isA,Chemical Element
+414,Radium,isA,Matter
+415,Alkali Metal,isA,Chemical Element Category
+416,Alkaline Earth Metal,isA,Chemical Element Category
+417,Halogen,isA,Chemical Element Category
+418,Metal,isA,Chemical Element Category
+419,Metalloid,isA,Chemical Element Category
+420,Noble Gas,isA,Chemical Element Category
+421,Nonmetal,isA,Chemical Element Category
+422,Mercury,isA,Planet
+423,Mercury,isA,Celestial Body
+424,Venus,isA,Planet
+425,Venus,isA,Celestial Body
+426,Earth,isA,Planet
+427,Earth,isA,Celestial Body
+428,Mars,isA,Planet
+429,Mars,isA,Celestial Body
+430,Jupiter,isA,Planet
+431,Jupiter,isA,Celestial Body
+432,Saturn,isA,Planet
+433,Saturn,isA,Celestial Body
+434,Uranus,isA,Planet
+435,Uranus,isA,Celestial Body
+436,Neptune,isA,Planet
+437,Neptune,isA,Celestial Body
+438,Planet,isA,Celestial Body
+439,Pluto,isA,Dwarf Planet
+440,Pluto,isA,Celestial Body
+441,Ceres,isA,Dwarf Planet
+442,Ceres,isA,Celestial Body
+443,Eris,isA,Dwarf Planet
+444,Eris,isA,Celestial Body
+445,Makemake,isA,Dwarf Planet
+446,Makemake,isA,Celestial Body
+447,Haumea,isA,Dwarf Planet
+448,Haumea,isA,Celestial Body
+449,Dwarf Planet,isA,Celestial Body
+450,Square,isA,Quadrilateral
+451,Square,isA,Shape
+452,Rectangle,isA,Quadrilateral
+453,Rectangle,isA,Shape
+454,Rhombus,isA,Quadrilateral
+455,Rhombus,isA,Shape
+456,Triangle,isA,Polygon
+457,Triangle,isA,Shape
+458,Pentagon,isA,Polygon
+459,Pentagon,isA,Shape
+460,Hexagon,isA,Polygon
+461,Hexagon,isA,Shape
+462,Circle,isA,Conic Section
+463,Circle,isA,Shape
+464,Cube,isA,Polyhedron
+465,Cube,isA,Shape
+466,Sphere,isA,3D Shape
+467,Sphere,isA,Shape
+468,Cylinder,isA,3D Shape
+469,Cylinder,isA,Shape
+470,Cone,isA,3D Shape
+471,Cone,isA,Shape
+472,Pyramid,isA,Polyhedron
+473,Pyramid,isA,Shape
+474,3D Shape,isA,Shape
+475,Conic Section,isA,Shape
+476,Polygon,isA,Shape
+477,Polyhedron,isA,Shape
+478,Quadrilateral,isA,Shape
+479,Surgeon,isA,Doctor
+480,Surgeon,isA,Profession
+481,Pediatrician,isA,Doctor
+482,Pediatrician,isA,Profession
+483,Cardiologist,isA,Doctor
+484,Cardiologist,isA,Profession
+485,Violinist,isA,Musician
+486,Violinist,isA,Profession
+487,Pianist,isA,Musician
+488,Pianist,isA,Profession
+489,Guitarist,isA,Musician
+490,Guitarist,isA,Profession
+491,Novelist,isA,Writer
+492,Novelist,isA,Profession
+493,Poet,isA,Writer
+494,Poet,isA,Profession
+495,Journalist,isA,Writer
+496,Journalist,isA,Profession
+497,Sculptor,isA,Artist
+498,Sculptor,isA,Profession
+499,Painter,isA,Artist
+500,Painter,isA,Profession
+501,Plumber,isA,Tradesperson
+502,Plumber,isA,Profession
+503,Electrician,isA,Tradesperson
+504,Electrician,isA,Profession
+505,Carpenter,isA,Tradesperson
+506,Carpenter,isA,Profession
+507,Artist,isA,Profession
+508,Doctor,isA,Profession
+509,Musician,isA,Profession
+510,Tradesperson,isA,Profession
+511,Writer,isA,Profession
+512,Algeria,isA,Country
+513,Algeria,isA,Place
+514,Angola,isA,Country
+515,Angola,isA,Place
+516,Benin,isA,Country
+517,Benin,isA,Place
+518,Botswana,isA,Country
+519,Botswana,isA,Place
+520,Burkina Faso,isA,Country
+521,Burkina Faso,isA,Place
+522,Burundi,isA,Country
+523,Burundi,isA,Place
+524,Cameroon,isA,Country
+525,Cameroon,isA,Place
+526,Chad,isA,Country
+527,Chad,isA,Place
+528,Egypt,isA,Country
+529,Egypt,isA,Place
+530,Ethiopia,isA,Country
+531,Ethiopia,isA,Place
+532,Gabon,isA,Country
+533,Gabon,isA,Place
+534,Ghana,isA,Country
+535,Ghana,isA,Place
+536,Kenya,isA,Country
+537,Kenya,isA,Place
+538,Libya,isA,Country
+539,Libya,isA,Place
+540,Madagascar,isA,Country
+541,Madagascar,isA,Place
+542,Malawi,isA,Country
+543,Malawi,isA,Place
+544,Mali,isA,Country
+545,Mali,isA,Place
+546,Mauritania,isA,Country
+547,Mauritania,isA,Place
+548,Morocco,isA,Country
+549,Morocco,isA,Place
+550,Mozambique,isA,Country
+551,Mozambique,isA,Place
+552,Namibia,isA,Country
+553,Namibia,isA,Place
+554,Niger,isA,Country
+555,Niger,isA,Place
+556,Nigeria,isA,Country
+557,Nigeria,isA,Place
+558,Rwanda,isA,Country
+559,Rwanda,isA,Place
+560,Senegal,isA,Country
+561,Senegal,isA,Place
+562,Somalia,isA,Country
+563,Somalia,isA,Place
+564,South Africa,isA,Country
+565,South Africa,isA,Place
+566,South Sudan,isA,Country
+567,South Sudan,isA,Place
+568,Sudan,isA,Country
+569,Sudan,isA,Place
+570,Tanzania,isA,Country
+571,Tanzania,isA,Place
+572,Togo,isA,Country
+573,Togo,isA,Place
+574,Tunisia,isA,Country
+575,Tunisia,isA,Place
+576,Uganda,isA,Country
+577,Uganda,isA,Place
+578,Zambia,isA,Country
+579,Zambia,isA,Place
+580,Zimbabwe,isA,Country
+581,Zimbabwe,isA,Place
+582,Afghanistan,isA,Country
+583,Afghanistan,isA,Place
+584,Armenia,isA,Country
+585,Armenia,isA,Place
+586,Azerbaijan,isA,Country
+587,Azerbaijan,isA,Place
+588,Bahrain,isA,Country
+589,Bahrain,isA,Place
+590,Bangladesh,isA,Country
+591,Bangladesh,isA,Place
+592,Bhutan,isA,Country
+593,Bhutan,isA,Place
+594,Brunei,isA,Country
+595,Brunei,isA,Place
+596,Cambodia,isA,Country
+597,Cambodia,isA,Place
+598,China,isA,Country
+599,China,isA,Place
+600,Cyprus,isA,Country
+601,Cyprus,isA,Place
+602,Georgia,isA,Country
+603,Georgia,isA,Place
+604,India,isA,Country
+605,India,isA,Place
+606,Indonesia,isA,Country
+607,Indonesia,isA,Place
+608,Iran,isA,Country
+609,Iran,isA,Place
+610,Iraq,isA,Country
+611,Iraq,isA,Place
+612,Israel,isA,Country
+613,Israel,isA,Place
+614,Japan,isA,Country
+615,Japan,isA,Place
+616,Jordan,isA,Country
+617,Jordan,isA,Place
+618,Kazakhstan,isA,Country
+619,Kazakhstan,isA,Place
+620,Kuwait,isA,Country
+621,Kuwait,isA,Place
+622,Kyrgyzstan,isA,Country
+623,Kyrgyzstan,isA,Place
+624,Laos,isA,Country
+625,Laos,isA,Place
+626,Lebanon,isA,Country
+627,Lebanon,isA,Place
+628,Malaysia,isA,Country
+629,Malaysia,isA,Place
+630,Maldives,isA,Country
+631,Maldives,isA,Place
+632,Mongolia,isA,Country
+633,Mongolia,isA,Place
+634,Myanmar,isA,Country
+635,Myanmar,isA,Place
+636,Nepal,isA,Country
+637,Nepal,isA,Place
+638,North Korea,isA,Country
+639,North Korea,isA,Place
+640,Oman,isA,Country
+641,Oman,isA,Place
+642,Pakistan,isA,Country
+643,Pakistan,isA,Place
+644,Philippines,isA,Country
+645,Philippines,isA,Place
+646,Qatar,isA,Country
+647,Qatar,isA,Place
+648,Saudi Arabia,isA,Country
+649,Saudi Arabia,isA,Place
+650,Singapore,isA,Country
+651,Singapore,isA,Place
+652,South Korea,isA,Country
+653,South Korea,isA,Place
+654,Sri Lanka,isA,Country
+655,Sri Lanka,isA,Place
+656,Syria,isA,Country
+657,Syria,isA,Place
+658,Taiwan,isA,Country
+659,Taiwan,isA,Place
+660,Tajikistan,isA,Country
+661,Tajikistan,isA,Place
+662,Thailand,isA,Country
+663,Thailand,isA,Place
+664,Turkey,isA,Country
+665,Turkey,isA,Place
+666,Turkmenistan,isA,Country
+667,Turkmenistan,isA,Place
+668,United Arab Emirates,isA,Country
+669,United Arab Emirates,isA,Place
+670,Uzbekistan,isA,Country
+671,Uzbekistan,isA,Place
+672,Vietnam,isA,Country
+673,Vietnam,isA,Place
+674,Yemen,isA,Country
+675,Yemen,isA,Place
+676,Albania,isA,Country
+677,Albania,isA,Place
+678,Austria,isA,Country
+679,Austria,isA,Place
+680,Belarus,isA,Country
+681,Belarus,isA,Place
+682,Belgium,isA,Country
+683,Belgium,isA,Place
+684,Bulgaria,isA,Country
+685,Bulgaria,isA,Place
+686,Croatia,isA,Country
+687,Croatia,isA,Place
+688,Czech Republic,isA,Country
+689,Czech Republic,isA,Place
+690,Denmark,isA,Country
+691,Denmark,isA,Place
+692,Estonia,isA,Country
+693,Estonia,isA,Place
+694,Finland,isA,Country
+695,Finland,isA,Place
+696,France,isA,Country
+697,France,isA,Place
+698,Germany,isA,Country
+699,Germany,isA,Place
+700,Greece,isA,Country
+701,Greece,isA,Place
+702,Hungary,isA,Country
+703,Hungary,isA,Place
+704,Iceland,isA,Country
+705,Iceland,isA,Place
+706,Ireland,isA,Country
+707,Ireland,isA,Place
+708,Italy,isA,Country
+709,Italy,isA,Place
+710,Latvia,isA,Country
+711,Latvia,isA,Place
+712,Lithuania,isA,Country
+713,Lithuania,isA,Place
+714,Luxembourg,isA,Country
+715,Luxembourg,isA,Place
+716,Malta,isA,Country
+717,Malta,isA,Place
+718,Moldova,isA,Country
+719,Moldova,isA,Place
+720,Netherlands,isA,Country
+721,Netherlands,isA,Place
+722,Norway,isA,Country
+723,Norway,isA,Place
+724,Poland,isA,Country
+725,Poland,isA,Place
+726,Portugal,isA,Country
+727,Portugal,isA,Place
+728,Romania,isA,Country
+729,Romania,isA,Place
+730,Russia,isA,Country
+731,Russia,isA,Place
+732,Serbia,isA,Country
+733,Serbia,isA,Place
+734,Slovakia,isA,Country
+735,Slovakia,isA,Place
+736,Slovenia,isA,Country
+737,Slovenia,isA,Place
+738,Spain,isA,Country
+739,Spain,isA,Place
+740,Sweden,isA,Country
+741,Sweden,isA,Place
+742,Switzerland,isA,Country
+743,Switzerland,isA,Place
+744,Ukraine,isA,Country
+745,Ukraine,isA,Place
+746,United Kingdom,isA,Country
+747,United Kingdom,isA,Place
+748,Canada,isA,Country
+749,Canada,isA,Place
+750,Mexico,isA,Country
+751,Mexico,isA,Place
+752,United States,isA,Country
+753,United States,isA,Place
+754,Cuba,isA,Country
+755,Cuba,isA,Place
+756,Jamaica,isA,Country
+757,Jamaica,isA,Place
+758,Panama,isA,Country
+759,Panama,isA,Place
+760,Costa Rica,isA,Country
+761,Costa Rica,isA,Place
+762,Guatemala,isA,Country
+763,Guatemala,isA,Place
+764,Honduras,isA,Country
+765,Honduras,isA,Place
+766,Nicaragua,isA,Country
+767,Nicaragua,isA,Place
+768,Argentina,isA,Country
+769,Argentina,isA,Place
+770,Bolivia,isA,Country
+771,Bolivia,isA,Place
+772,Brazil,isA,Country
+773,Brazil,isA,Place
+774,Chile,isA,Country
+775,Chile,isA,Place
+776,Colombia,isA,Country
+777,Colombia,isA,Place
+778,Ecuador,isA,Country
+779,Ecuador,isA,Place
+780,Guyana,isA,Country
+781,Guyana,isA,Place
+782,Paraguay,isA,Country
+783,Paraguay,isA,Place
+784,Peru,isA,Country
+785,Peru,isA,Place
+786,Suriname,isA,Country
+787,Suriname,isA,Place
+788,Uruguay,isA,Country
+789,Uruguay,isA,Place
+790,Venezuela,isA,Country
+791,Venezuela,isA,Place
+792,Australia,isA,Country
+793,Australia,isA,Place
+794,Fiji,isA,Country
+795,Fiji,isA,Place
+796,New Zealand,isA,Country
+797,New Zealand,isA,Place
+798,Papua New Guinea,isA,Country
+799,Papua New Guinea,isA,Place
+800,Samoa,isA,Country
+801,Samoa,isA,Place
+802,Tonga,isA,Country
+803,Tonga,isA,Place
+804,Vanuatu,isA,Country
+805,Vanuatu,isA,Place
+806,Country,isA,Place
+807,Oak Tree,isA,Tree
+808,Oak Tree,isA,Plant
+809,Pine Tree,isA,Tree
+810,Pine Tree,isA,Plant
+811,Maple Tree,isA,Tree
+812,Maple Tree,isA,Plant
+813,Redwood,isA,Tree
+814,Redwood,isA,Plant
+815,Rose,isA,Flower
+816,Rose,isA,Plant
+817,Tulip,isA,Flower
+818,Tulip,isA,Plant
+819,Sunflower,isA,Flower
+820,Sunflower,isA,Plant
+821,Daisy,isA,Flower
+822,Daisy,isA,Plant
+823,Orchid,isA,Flower
+824,Orchid,isA,Plant
+825,Lily,isA,Flower
+826,Lily,isA,Plant
+827,Bamboo,isA,Grass
+828,Bamboo,isA,Plant
+829,Wheat,isA,Grass
+830,Wheat,isA,Plant
+831,Rice Plant,isA,Grass
+832,Rice Plant,isA,Plant
+833,Corn Plant,isA,Grass
+834,Corn Plant,isA,Plant
+835,Fern,isA,Fern
+836,Fern,isA,Plant
+837,Cactus,isA,Succulent
+838,Cactus,isA,Plant
+839,Aloe Vera,isA,Succulent
+840,Aloe Vera,isA,Plant
+841,Flower,isA,Plant
+842,Grass,isA,Plant
+843,Succulent,isA,Plant
+844,Tree,isA,Plant
+845,Mushroom,isA,Fungus
+846,Fungus,isA,Living Organism
+847,Algae,isA,Protist
+848,Protist,isA,Living Organism
+849,Plant,isA,Living Organism
+850,Animal,isA,Living Organism
+851,Fire,hasQuality,Hot
+852,Ice,hasQuality,Cold
+853,Sun,hasQuality,Hot
+854,Snow,hasQuality,Cold
+855,Diamond,hasQuality,Hard
+856,Feather,hasQuality,Light
+857,Lead,hasQuality,Dense
+858,Steel,hasQuality,Strong
+859,Glass,hasQuality,Fragile
+860,Rubber,hasQuality,Elastic
+861,Honey,hasQuality,Sticky
+862,Sandpaper,hasQuality,Rough
+863,Silk,hasQuality,Smooth
+864,Lemon,hasQuality,Sour
+865,Sugar,hasQuality,Sweet
+866,Chili Pepper,hasQuality,Spicy
+867,Coffee,hasQuality,Bitter
+868,Salt,hasQuality,Salty
+869,Vinegar,hasQuality,Acidic
+870,Cheetah,hasQuality,Fast
+871,Sloth,hasQuality,Slow
+872,Tortoise,hasQuality,Slow
+873,Elephant,hasQuality,Large
+874,Ant,hasQuality,Small
+875,Mouse,hasQuality,Small
+876,Blue Whale,hasQuality,Massive
+877,Giraffe,hasQuality,Tall
+878,Snake,hasQuality,Legless
+879,Owl,hasQuality,Nocturnal
+880,Bat,hasQuality,Nocturnal
+881,Chameleon,hasQuality,Camouflaged
+882,Peacock,hasQuality,Colorful
+883,Zebra,hasQuality,Striped
+884,Leopard,hasQuality,Spotted
+885,Cactus,hasQuality,Spiny
+886,Rose,hasQuality,Thorny
+887,Oak Tree,hasQuality,Sturdy
+888,Bamboo,hasQuality,Flexible
+889,Redwood,hasQuality,Tall
+890,Mushroom,hasQuality,Fungal
+891,Gold,hasQuality,Shiny
+892,Gold,hasQuality,Malleable
+893,Silver,hasQuality,Shiny
+894,Copper,hasQuality,Conductive
+895,Rubber,hasQuality,Insulating
+896,Wood,hasQuality,Combustible
+897,Water,hasQuality,Transparent
+898,Air,hasQuality,Invisible
+899,Oil,hasQuality,Slippery
+900,Granite,hasQuality,Hard
+901,Clay,hasQuality,Moldable
+902,Cotton,hasQuality,Soft
+903,Wool,hasQuality,Warm
+904,Marble,hasQuality,Smooth
+905,Concrete,hasQuality,Durable
+906,Volcano,hasQuality,Hot
+907,Desert,hasQuality,Dry
+908,Rainforest,hasQuality,Humid
+909,Ocean,hasQuality,Salty
+910,River,hasQuality,Freshwater
+911,Glacier,hasQuality,Cold
+912,Mount Everest,hasQuality,Tall
+913,Sahara Desert,hasQuality,Hot
+914,Human Heart,hasQuality,Muscular
+915,Human Skin,hasQuality,Elastic
+916,Human Bone,hasQuality,Rigid
+917,Human Brain,hasQuality,Complex
+918,Spider Silk,hasQuality,Strong
+919,Kevlar,hasQuality,Strong
+920,Helium,hasQuality,Light
+921,Hydrogen,hasQuality,Flammable
+922,Oxygen,hasQuality,Colorless
+923,Nitrogen,hasQuality,Inert
+924,Mercury (element),hasQuality,Liquid at Room Temperature
+925,Neon,hasQuality,Colorless
+926,Chlorine,hasQuality,Toxic
+927,Ozone,hasQuality,Reactive
+928,Diamond,hasQuality,Transparent
+929,Ruby,hasQuality,Red
+930,Emerald,hasQuality,Green
+931,Sapphire,hasQuality,Blue
+932,Amethyst,hasQuality,Purple
+933,Obsidian,hasQuality,Sharp
+934,Titanium,hasQuality,Lightweight
+935,Titanium,hasQuality,Corrosion-Resistant
+936,Aluminum,hasQuality,Lightweight
+937,Iron,hasQuality,Magnetic
+938,Wolf,hasQuality,Social
+939,Lion,hasQuality,Social
+940,Tiger,hasQuality,Solitary
+941,Bee,hasQuality,Social
+942,Ant,hasQuality,Social
+943,Shark,hasQuality,Predatory
+944,Panda,hasQuality,Docile
+945,Hyena,hasQuality,Scavenging
+946,Cactus,hasQuality,Drought-Resistant
+947,Venus Flytrap,hasQuality,Carnivorous
+948,Fern,hasQuality,Shade-Loving
+949,Sunflower,hasQuality,Phototropic
+950,Milk,hasQuality,White
+951,Blood,hasQuality,Red
+952,Grass,hasQuality,Green
+953,Sky,hasQuality,Blue
+954,Charcoal,hasQuality,Black
+955,Cheese,hasQuality,Fermented
+956,Yogurt,hasQuality,Fermented
+957,Wine,hasQuality,Fermented
+958,Bread,hasQuality,Baked
+959,Pasta,hasQuality,Starchy
+960,Rice,hasQuality,Starchy
+961,Marathon Runner,hasQuality,Endurant
+962,Sprinter,hasQuality,Fast
+963,Computer Chip,hasQuality,Electronic
+964,Battery,hasQuality,Rechargeable
+965,Smartphone,hasQuality,Portable
+966,Airplane,hasQuality,Fast
+967,Turtle,hasQuality,Long-Lived
+968,Mayfly,hasQuality,Short-Lived
+969,Redwood Tree,hasQuality,Long-Lived
+970,Bristlecone Pine,hasQuality,Long-Lived
+971,Jellyfish,hasQuality,Translucent
+972,Glass Frog,hasQuality,Translucent
+973,Polar Bear,hasQuality,White
+974,Flamingo,hasQuality,Pink
+975,Canary,hasQuality,Yellow
+976,Raven,hasQuality,Black
+977,Zebra Finch,hasQuality,Striped
+978,Volcanic Rock,hasQuality,Porous
+979,Pumice,hasQuality,Porous
+980,Sponge,hasQuality,Absorbent
+981,Towel,hasQuality,Absorbent
+982,Mirror,hasQuality,Reflective
+983,Chrome,hasQuality,Reflective
+984,Sandstone,hasQuality,Porous
+985,Limestone,hasQuality,Soluble
+986,Quartz,hasQuality,Hard
+987,Talc,hasQuality,Soft
+988,Penguin,hasQuality,Flightless
+989,Ostrich,hasQuality,Flightless
+990,Kiwi Bird,hasQuality,Flightless
+991,Eagle,hasQuality,Sharp-Sighted
+992,Dog,hasQuality,Loyal
+993,Cat,hasQuality,Independent
+994,Dolphin,hasQuality,Intelligent
+995,Crow,hasQuality,Intelligent
+996,Octopus,hasQuality,Intelligent
+997,Camel,hasQuality,Drought-Resistant
+998,Camel,hasQuality,Hardy
+999,Arctic Fox,hasQuality,Cold-Adapted
+1000,Polar Bear,hasQuality,Cold-Adapted
+1001,Cactus Spine,hasQuality,Sharp
+1002,Thorn,hasQuality,Sharp
+1003,Blade,hasQuality,Sharp
+1004,Pillow,hasQuality,Soft
+1005,Rock,hasQuality,Hard
+1006,Water,hasQuality,Liquid
+1007,Steam,hasQuality,Gaseous
+1008,Ice Cube,hasQuality,Solid
+1009,Basalt,hasQuality,Dark
+1010,Chalk,hasQuality,Soft
+1011,Pumice,hasQuality,Lightweight
+1012,Wax,hasQuality,Meltable
+1013,Butter,hasQuality,Meltable
+1014,Chocolate,hasQuality,Meltable
+1015,Iron,hasQuality,Malleable
+1016,Sand,hasQuality,Granular
+1017,Flour,hasQuality,Powdery
+1018,Salt,hasQuality,Crystalline
+1019,Sugar,hasQuality,Crystalline
+1020,Quartz,hasQuality,Crystalline
+1021,Velvet,hasQuality,Soft
+1022,Sandpaper,hasQuality,Abrasive
+1023,Denim,hasQuality,Durable
+1024,Leather,hasQuality,Durable
+1025,Paper,hasQuality,Thin
+1026,Cardboard,hasQuality,Rigid
+1027,Balloon,hasQuality,Inflatable
+1028,Sponge,hasQuality,Porous
+1029,Volcanic Ash,hasQuality,Fine
+1030,Fog,hasQuality,Dense
+1031,Cloud,hasQuality,Fluffy
+1032,Thunderstorm,hasQuality,Loud
+1033,Whisper,hasQuality,Quiet
+1034,Siren,hasQuality,Loud
+1035,Violin,hasQuality,Melodic
+1036,Drum,hasQuality,Percussive
+1037,Trumpet,hasQuality,Brassy
+1038,Owl Call,hasQuality,Eerie
+1039,Lion Roar,hasQuality,Loud
+1040,Mouse Squeak,hasQuality,Quiet
+1041,Cheetah,hasQuality,Agile
+1042,Gazelle,hasQuality,Agile
+1043,Monkey,hasQuality,Agile
+1044,Penguin,hasQuality,Waddling
+1045,Snail,hasQuality,Slow
+1046,Falcon,hasQuality,Fast
+1047,Hare,hasQuality,Fast
+1048,Snail,hasQuality,Small
+1049,Blue Whale,hasQuality,Loud (Vocalization)
+1050,Elephant,hasQuality,Strong
+1051,Ant,hasQuality,Strong (Relative to Size)
+1052,Gorilla,hasQuality,Strong
+1053,Spider,hasQuality,Eight-Legged
+1054,Insect,hasQuality,Six-Legged
+1055,Starfish,hasQuality,Regenerative
+1056,Chameleon,hasQuality,Color-Changing
+1057,Octopus,hasQuality,Color-Changing
+1058,Cuttlefish,hasQuality,Color-Changing
+1059,Firefly,hasQuality,Bioluminescent
+1060,Anglerfish,hasQuality,Bioluminescent
+1061,Jellyfish,hasQuality,Bioluminescent
+1062,Skunk,hasQuality,Odorous
+1063,Rose,hasQuality,Fragrant
+1064,Garlic,hasQuality,Pungent
+1065,Onion,hasQuality,Pungent
+1066,Durian,hasQuality,Pungent
+1067,Lavender,hasQuality,Fragrant
+1068,Vanilla,hasQuality,Fragrant
+1069,Vinegar,hasQuality,Pungent
+1070,Spinach,hasQuality,Nutritious
+1071,Kale,hasQuality,Nutritious
+1072,Broccoli,hasQuality,Nutritious
+1073,Junk Food,hasQuality,Calorie-Dense
+1074,Water,hasQuality,Essential for Life
+1075,Oxygen,hasQuality,Essential for Life
+1076,Sunlight,hasQuality,Essential for Photosynthesis
+1077,Bamboo,hasQuality,Fast-Growing
+1078,Ivy,hasQuality,Fast-Growing
+1079,Bonsai Tree,hasQuality,Slow-Growing
+1080,Oak Tree,hasQuality,Slow-Growing
+1081,Redwood,hasQuality,Ancient
+1082,Bristlecone Pine,hasQuality,Ancient
+1083,Glass,hasQuality,Transparent
+1084,Fog,hasQuality,Translucent
+1085,Obsidian,hasQuality,Glassy
+1086,Marble,hasQuality,Polished
+1087,Rubber Band,hasQuality,Stretchy
+1088,Spring (Coil),hasQuality,Elastic
+1089,Trampoline,hasQuality,Bouncy
+1090,Pillow,hasQuality,Fluffy
+1091,Anvil,hasQuality,Heavy
+1092,Feather Pillow,hasQuality,Light
+1093,Battery,hasQuality,Energy-Storing
+1094,Solar Panel,hasQuality,Energy-Converting
+1095,Magnet,hasQuality,Magnetic
+1096,Compass Needle,hasQuality,Magnetic
+1097,Diamond,hasQuality,Rare
+1098,Gold,hasQuality,Rare
+1099,Sand,hasQuality,Abundant
+1100,Water (on Earth),hasQuality,Abundant
+1101,Helium,hasQuality,Rare on Earth
+1102,Hippopotamus,hasQuality,Large
+1103,Rhinoceros,hasQuality,Large
+1104,Rhinoceros,hasQuality,Horned
+1105,Panda,hasQuality,Black and White
+1106,Koala,hasQuality,Gray
+1107,Cow,hasQuality,Docile
+1108,Pig,hasQuality,Pink
+1109,Sheep,hasQuality,Woolly
+1110,Fox,hasQuality,Cunning
+1111,Toucan,hasQuality,Colorful
+1112,Woodpecker,hasQuality,Pecking
+1113,Cardinal,hasQuality,Red
+1114,Blue Jay,hasQuality,Blue
+1115,Cobra,hasQuality,Venomous
+1116,Viper,hasQuality,Venomous
+1117,Komodo Dragon,hasQuality,Large
+1118,Ladybug,hasQuality,Spotted
+1119,Praying Mantis,hasQuality,Camouflaged
+1120,Pufferfish,hasQuality,Spiky
+1121,Camel,hasQuality,Humped
+1122,Beaver,hasQuality,Industrious
+1123,Skunk,hasQuality,Black and White
+1124,Squirrel,hasQuality,Bushy-Tailed
+1125,Moose,hasQuality,Antlered
+1126,Traffic Cone,hasQuality,Bright
+1127,Snowflake,hasQuality,Symmetrical
+1128,Atom,contains,Proton
+1129,Atom,contains,Neutron
+1130,Atom,contains,Electron
+1131,Water Molecule,contains,Hydrogen
+1132,Water Molecule,contains,Oxygen
+1133,Cell,contains,Nucleus
+1134,Cell,contains,Mitochondria
+1135,Cell,contains,Cytoplasm
+1136,Cell,contains,Ribosome
+1137,Plant Cell,contains,Chloroplast
+1138,Plant Cell,contains,Cell Wall
+1139,Human Cell,contains,Nucleus
+1140,DNA,contains,Nucleotide
+1141,DNA,contains,Adenine
+1142,DNA,contains,Guanine
+1143,DNA,contains,Cytosine
+1144,DNA,contains,Thymine
+1145,Human Body,contains,Heart
+1146,Human Body,contains,Brain
+1147,Human Body,contains,Lungs
+1148,Human Body,contains,Liver
+1149,Human Body,contains,Kidneys
+1150,Human Body,contains,Stomach
+1151,Human Body,contains,Skin
+1152,Human Body,contains,Skeleton
+1153,Human Body,contains,Blood
+1154,Human Body,contains,Muscles
+1155,Skeleton,contains,Skull
+1156,Skeleton,contains,Rib Cage
+1157,Skeleton,contains,Femur
+1158,Rib Cage,contains,Ribs
+1159,Heart,contains,Ventricle
+1160,Heart,contains,Atrium
+1161,Eye,contains,Retina
+1162,Eye,contains,Cornea
+1163,Eye,contains,Pupil
+1164,Ear,contains,Eardrum
+1165,Ear,contains,Cochlea
+1166,Solar System,contains,Sun
+1167,Solar System,contains,Mercury
+1168,Solar System,contains,Venus
+1169,Solar System,contains,Earth
+1170,Solar System,contains,Mars
+1171,Solar System,contains,Jupiter
+1172,Solar System,contains,Saturn
+1173,Solar System,contains,Uranus
+1174,Solar System,contains,Neptune
+1175,Milky Way,contains,Solar System
+1176,Galaxy,contains,Star
+1177,Universe,contains,Galaxy
+1178,Earth,contains,Atmosphere
+1179,Earth,contains,Crust
+1180,Earth,contains,Mantle
+1181,Earth,contains,Core
+1182,Atmosphere,contains,Nitrogen
+1183,Atmosphere,contains,Oxygen
+1184,Atmosphere,contains,Carbon Dioxide
+1185,Atom Nucleus,contains,Proton
+1186,Molecule,contains,Atom
+1187,Sentence,contains,Word
+1188,Word,contains,Letter
+1189,Book,contains,Chapter
+1190,Chapter,contains,Paragraph
+1191,Orchestra,contains,Violin Section
+1192,Computer,contains,Processor
+1193,Computer,contains,Memory
+1194,Computer,contains,Hard Drive
+1195,Smartphone,contains,Battery
+1196,Smartphone,contains,Camera
+1197,Car,contains,Engine
+1198,Car,contains,Wheels
+1199,Engine,contains,Piston
+1200,Bicycle,contains,Wheels
+1201,Bicycle,contains,Handlebars
+1202,House,contains,Roof
+1203,House,contains,Foundation
+1204,City,contains,Neighborhood
+1205,Country,contains,City
+1206,Continent,contains,Country
+1207,Paris,isIn,France
+1208,Berlin,isIn,Germany
+1209,Rome,isIn,Italy
+1210,Madrid,isIn,Spain
+1211,Lisbon,isIn,Portugal
+1212,Amsterdam,isIn,Netherlands
+1213,Brussels,isIn,Belgium
+1214,Bern,isIn,Switzerland
+1215,Vienna,isIn,Austria
+1216,Warsaw,isIn,Poland
+1217,Prague,isIn,Czech Republic
+1218,Budapest,isIn,Hungary
+1219,Athens,isIn,Greece
+1220,Stockholm,isIn,Sweden
+1221,Oslo,isIn,Norway
+1222,Copenhagen,isIn,Denmark
+1223,Helsinki,isIn,Finland
+1224,Dublin,isIn,Ireland
+1225,London,isIn,United Kingdom
+1226,Moscow,isIn,Russia
+1227,Kyiv,isIn,Ukraine
+1228,Bucharest,isIn,Romania
+1229,Sofia,isIn,Bulgaria
+1230,Zagreb,isIn,Croatia
+1231,Belgrade,isIn,Serbia
+1232,Reykjavik,isIn,Iceland
+1233,Tokyo,isIn,Japan
+1234,Beijing,isIn,China
+1235,Seoul,isIn,South Korea
+1236,Pyongyang,isIn,North Korea
+1237,New Delhi,isIn,India
+1238,Islamabad,isIn,Pakistan
+1239,Dhaka,isIn,Bangladesh
+1240,Kathmandu,isIn,Nepal
+1241,Bangkok,isIn,Thailand
+1242,Hanoi,isIn,Vietnam
+1243,Manila,isIn,Philippines
+1244,Jakarta,isIn,Indonesia
+1245,Kuala Lumpur,isIn,Malaysia
+1246,Singapore City,isIn,Singapore
+1247,Kabul,isIn,Afghanistan
+1248,Tehran,isIn,Iran
+1249,Baghdad,isIn,Iraq
+1250,Riyadh,isIn,Saudi Arabia
+1251,Ankara,isIn,Turkey
+1252,Jerusalem,isIn,Israel
+1253,Cairo,isIn,Egypt
+1254,Tripoli,isIn,Libya
+1255,Tunis,isIn,Tunisia
+1256,Algiers,isIn,Algeria
+1257,Rabat,isIn,Morocco
+1258,Nairobi,isIn,Kenya
+1259,Addis Ababa,isIn,Ethiopia
+1260,Accra,isIn,Ghana
+1261,Abuja,isIn,Nigeria
+1262,Pretoria,isIn,South Africa
+1263,Harare,isIn,Zimbabwe
+1264,Kinshasa,isIn,Democratic Republic of the Congo
+1265,Ottawa,isIn,Canada
+1266,Washington D.C.,isIn,United States
+1267,Mexico City,isIn,Mexico
+1268,Havana,isIn,Cuba
+1269,Panama City,isIn,Panama
+1270,San Jose,isIn,Costa Rica
+1271,Bogota,isIn,Colombia
+1272,Caracas,isIn,Venezuela
+1273,Lima,isIn,Peru
+1274,Santiago,isIn,Chile
+1275,Buenos Aires,isIn,Argentina
+1276,Brasilia,isIn,Brazil
+1277,Montevideo,isIn,Uruguay
+1278,La Paz,isIn,Bolivia
+1279,Quito,isIn,Ecuador
+1280,Canberra,isIn,Australia
+1281,Wellington,isIn,New Zealand
+1282,Suva,isIn,Fiji
+1283,Eiffel Tower,isIn,Paris
+1284,Statue of Liberty,isIn,New York City
+1285,Great Wall of China,isIn,China
+1286,Colosseum,isIn,Rome
+1287,Taj Mahal,isIn,Agra
+1288,Machu Picchu,isIn,Peru
+1289,Great Pyramid of Giza,isIn,Egypt
+1290,Christ the Redeemer,isIn,Rio de Janeiro
+1291,Big Ben,isIn,London
+1292,Sydney Opera House,isIn,Sydney
+1293,Mount Everest,isIn,Nepal
+1294,Mount Kilimanjaro,isIn,Tanzania
+1295,Grand Canyon,isIn,United States
+1296,Amazon Rainforest,isIn,Brazil
+1297,Sahara Desert,isIn,North Africa
+1298,Niagara Falls,isIn,North America
+1299,Victoria Falls,isIn,Zambia
+1300,Stonehenge,isIn,England
+1301,Acropolis,isIn,Athens
+1302,Petra,isIn,Jordan
+1303,Angkor Wat,isIn,Cambodia
+1304,Mount Fuji,isIn,Japan
+1305,Uluru,isIn,Australia
+1306,Golden Gate Bridge,isIn,San Francisco
+1307,Burj Khalifa,isIn,Dubai
+1308,California,isIn,United States
+1309,Texas,isIn,United States
+1310,Florida,isIn,United States
+1311,New York,isIn,United States
+1312,Pennsylvania,isIn,United States
+1313,Illinois,isIn,United States
+1314,Ohio,isIn,United States
+1315,Georgia,isIn,United States
+1316,North Carolina,isIn,United States
+1317,Michigan,isIn,United States
+1318,New Jersey,isIn,United States
+1319,Virginia,isIn,United States
+1320,Washington,isIn,United States
+1321,Arizona,isIn,United States
+1322,Massachusetts,isIn,United States
+1323,Tennessee,isIn,United States
+1324,Indiana,isIn,United States
+1325,Missouri,isIn,United States
+1326,Maryland,isIn,United States
+1327,Wisconsin,isIn,United States
+1328,Colorado,isIn,United States
+1329,Minnesota,isIn,United States
+1330,South Carolina,isIn,United States
+1331,Alabama,isIn,United States
+1332,Louisiana,isIn,United States
+1333,Kentucky,isIn,United States
+1334,Oregon,isIn,United States
+1335,Oklahoma,isIn,United States
+1336,Connecticut,isIn,United States
+1337,Utah,isIn,United States
+1338,Nevada,isIn,United States
+1339,Iowa,isIn,United States
+1340,Arkansas,isIn,United States
+1341,Mississippi,isIn,United States
+1342,Kansas,isIn,United States
+1343,New Mexico,isIn,United States
+1344,Nebraska,isIn,United States
+1345,Idaho,isIn,United States
+1346,Hawaii,isIn,United States
+1347,Maine,isIn,United States
+1348,Alaska,isIn,United States
+1349,Montana,isIn,United States
+1350,Vermont,isIn,United States
+1351,Wyoming,isIn,United States
+1352,Nile River,isIn,Africa
+1353,Amazon River,isIn,South America
+1354,Mississippi River,isIn,United States
+1355,Yangtze River,isIn,China
+1356,Ganges River,isIn,India
+1357,Danube River,isIn,Europe
+1358,Thames River,isIn,England
+1359,Volga River,isIn,Russia
+1360,Rhine River,isIn,Europe
+1361,Congo River,isIn,Africa
+1362,Rain,causedBy,Condensation
+1363,Rainbow,causedBy,Light Refraction
+1364,Thunder,causedBy,Lightning
+1365,Tides,causedBy,Gravitational Pull of the Moon
+1366,Seasons,causedBy,Earth's Axial Tilt
+1367,Day and Night,causedBy,Earth's Rotation
+1368,Earthquakes,causedBy,Tectonic Plate Movement
+1369,Volcanic Eruptions,causedBy,Magma Pressure
+1370,Tsunamis,causedBy,Underwater Earthquakes
+1371,Global Warming,causedBy,Greenhouse Gas Emissions
+1372,Ozone Depletion,causedBy,Chlorofluorocarbons
+1373,Acid Rain,causedBy,Sulfur Dioxide Emissions
+1374,Rust,causedBy,Oxidation of Iron
+1375,Combustion,causedBy,Rapid Oxidation
+1376,Photosynthesis,causedBy,Sunlight Absorption
+1377,Scurvy,causedBy,Vitamin C Deficiency
+1378,Rickets,causedBy,Vitamin D Deficiency
+1379,Night Blindness,causedBy,Vitamin A Deficiency
+1380,Anemia,causedBy,Iron Deficiency
+1381,Goiter,causedBy,Iodine Deficiency
+1382,Malaria,causedBy,Plasmodium Parasite
+1383,Tuberculosis,causedBy,Mycobacterium Bacteria
+1384,Common Cold,causedBy,Rhinovirus
+1385,Influenza,causedBy,Influenza Virus
+1386,COVID-19,causedBy,SARS-CoV-2 Virus
+1387,Chickenpox,causedBy,Varicella-Zoster Virus
+1388,Tooth Decay,causedBy,Bacterial Acid Production
+1389,Sunburn,causedBy,Ultraviolet Radiation
+1390,Frostbite,causedBy,Extreme Cold Exposure
+1391,Hypothermia,causedBy,Prolonged Cold Exposure
+1392,Dehydration,causedBy,Insufficient Water Intake
+1393,Obesity,causedBy,Caloric Surplus
+1394,Type 2 Diabetes,causedBy,Insulin Resistance
+1395,Osteoporosis,causedBy,Calcium Deficiency
+1396,Landslides,causedBy,Heavy Rainfall
+1397,Floods,causedBy,Excessive Rainfall
+1398,Droughts,causedBy,Prolonged Lack of Rainfall
+1399,Wildfires,causedBy,Dry Conditions and Ignition Sources
+1400,Erosion,causedBy,Wind and Water Action
+1401,Sound,causedBy,Vibrating Objects
+1402,Echo,causedBy,Sound Reflection
+1403,Static Electricity,causedBy,Friction Between Materials
+1404,Lightning,causedBy,Electrical Charge Buildup in Clouds
+1405,Fog,causedBy,Condensation Near the Ground
+1406,Hurricanes,causedBy,Warm Ocean Water Evaporation
+1407,Ice Formation,causedBy,Freezing Temperatures
+1408,Evaporation,causedBy,Heat Energy
+1409,Bruising,causedBy,Broken Blood Vessels
+1410,Muscle Soreness,causedBy,Lactic Acid Buildup
+1411,Jet Lag,causedBy,Circadian Rhythm Disruption
+1412,Cavities,causedBy,Bacterial Plaque
+1413,Allergic Reactions,causedBy,Immune System Overreaction
+1414,Asthma Attacks,causedBy,Airway Inflammation
+1415,Food Poisoning,causedBy,Contaminated Food
+1416,Sunset Colors,causedBy,Atmospheric Light Scattering
+1417,Sky,causedBy,Rayleigh Scattering of Sunlight
+1418,Mammal,hasInstance,Dog
+1419,Bird,hasInstance,Eagle
+1420,Fish,hasInstance,Salmon
+1421,Reptile,hasInstance,Snake
+1422,Amphibian,hasInstance,Frog
+1423,Insect,hasInstance,Ant
+1424,Planet,hasInstance,Earth
+1425,Dwarf Planet,hasInstance,Pluto
+1426,Chemical Element,hasInstance,Gold
+1427,Metal,hasInstance,Iron
+1428,Noble Gas,hasInstance,Helium
+1429,Continent,hasInstance,Asia
+1430,Country,hasInstance,France
+1431,Ocean,hasInstance,Pacific Ocean
+1432,Mountain Range,hasInstance,Himalayas
+1433,River,hasInstance,Nile River
+1434,Programming Language,hasInstance,Python
+1435,Musical Instrument,hasInstance,Piano
+1436,Polygon,hasInstance,Triangle
+1437,3D Shape,hasInstance,Sphere
+1438,Season,hasInstance,Winter
+1439,Primary Color,hasInstance,Red
+1440,State of Matter,hasInstance,Liquid
+1441,Force,hasInstance,Gravity
+1442,Renewable Energy Source,hasInstance,Solar Power
+1443,Fossil Fuel,hasInstance,Coal
+1444,Vitamin,hasInstance,Vitamin C
+1445,Blood Type,hasInstance,O Negative
+1446,Cloud Type,hasInstance,Cumulus
+1447,Rock Type,hasInstance,Granite
+1448,Fruit,hasInstance,Apple
+1449,Vegetable,hasInstance,Carrot
+1450,Plant,hasInstance,Rose
+1451,Object,hasInstance,Chair
+1452,Photosynthesis,hasStep,Light Absorption
+1453,Photosynthesis,hasStep,Water Splitting
+1454,Photosynthesis,hasStep,Carbon Fixation
+1455,Photosynthesis,hasStep,Glucose Production
+1456,Water Cycle,hasStep,Evaporation
+1457,Water Cycle,hasStep,Condensation
+1458,Water Cycle,hasStep,Precipitation
+1459,Water Cycle,hasStep,Collection
+1460,Cellular Respiration,hasStep,Glycolysis
+1461,Cellular Respiration,hasStep,Krebs Cycle
+1462,Cellular Respiration,hasStep,Electron Transport Chain
+1463,Cellular Respiration,hasStep,ATP Production
+1464,Digestion,hasStep,Ingestion
+1465,Digestion,hasStep,Mechanical Digestion
+1466,Digestion,hasStep,Chemical Digestion
+1467,Digestion,hasStep,Absorption
+1468,Digestion,hasStep,Egestion
+1469,Mitosis,hasStep,Prophase
+1470,Mitosis,hasStep,Metaphase
+1471,Mitosis,hasStep,Anaphase
+1472,Mitosis,hasStep,Telophase
+1473,Nitrogen Cycle,hasStep,Nitrogen Fixation
+1474,Nitrogen Cycle,hasStep,Nitrification
+1475,Nitrogen Cycle,hasStep,Assimilation
+1476,Nitrogen Cycle,hasStep,Ammonification
+1477,Nitrogen Cycle,hasStep,Denitrification
+1478,Rock Cycle,hasStep,Weathering
+1479,Rock Cycle,hasStep,Erosion
+1480,Rock Cycle,hasStep,Deposition
+1481,Rock Cycle,hasStep,Compaction
+1482,Rock Cycle,hasStep,Metamorphism
+1483,Combustion Engine Cycle,hasStep,Intake
+1484,Combustion Engine Cycle,hasStep,Compression
+1485,Combustion Engine Cycle,hasStep,Combustion
+1486,Combustion Engine Cycle,hasStep,Exhaust
+1487,Scientific Method,hasStep,Observation
+1488,Scientific Method,hasStep,Hypothesis
+1489,Scientific Method,hasStep,Experimentation
+1490,Scientific Method,hasStep,Analysis
+1491,Scientific Method,hasStep,Conclusion
+1492,Metamorphosis (Butterfly),hasStep,Egg
+1493,Metamorphosis (Butterfly),hasStep,Larva
+1494,Metamorphosis (Butterfly),hasStep,Pupa
+1495,Metamorphosis (Butterfly),hasStep,Adult
+1496,Apple,isA,Fruit
+1497,Apple,isA,Food
+1498,Apple,hasQuality,Red
+1499,Apple,hasQuality,Round
+1500,Banana,isA,Fruit
+1501,Banana,isA,Food
+1502,Banana,hasQuality,Yellow
+1503,Banana,hasQuality,Curved
+1504,Orange,isA,Fruit
+1505,Orange,isA,Food
+1506,Orange,hasQuality,Orange
+1507,Orange,hasQuality,Round
+1508,Grape,isA,Fruit
+1509,Grape,isA,Food
+1510,Grape,hasQuality,Purple
+1511,Grape,hasQuality,Round (Small)
+1512,Strawberry,isA,Fruit
+1513,Strawberry,isA,Food
+1514,Strawberry,hasQuality,Red
+1515,Strawberry,hasQuality,Heart-Shaped
+1516,Watermelon,isA,Fruit
+1517,Watermelon,isA,Food
+1518,Watermelon,hasQuality,Green
+1519,Watermelon,hasQuality,Oval
+1520,Pineapple,isA,Fruit
+1521,Pineapple,isA,Food
+1522,Pineapple,hasQuality,Brown
+1523,Pineapple,hasQuality,Cylindrical
+1524,Mango,isA,Fruit
+1525,Mango,isA,Food
+1526,Mango,hasQuality,Orange
+1527,Mango,hasQuality,Oval
+1528,Peach,isA,Fruit
+1529,Peach,isA,Food
+1530,Peach,hasQuality,Orange
+1531,Peach,hasQuality,Round
+1532,Pear,isA,Fruit
+1533,Pear,isA,Food
+1534,Pear,hasQuality,Green
+1535,Pear,hasQuality,Pear-Shaped
+1536,Cherry,isA,Fruit
+1537,Cherry,isA,Food
+1538,Cherry,hasQuality,Red
+1539,Cherry,hasQuality,Round (Small)
+1540,Blueberry,isA,Fruit
+1541,Blueberry,isA,Food
+1542,Blueberry,hasQuality,Blue
+1543,Blueberry,hasQuality,Round (Small)
+1544,Raspberry,isA,Fruit
+1545,Raspberry,isA,Food
+1546,Raspberry,hasQuality,Red
+1547,Raspberry,hasQuality,"Round (Small, Aggregate)"
+1548,Blackberry,isA,Fruit
+1549,Blackberry,isA,Food
+1550,Blackberry,hasQuality,Black
+1551,Blackberry,hasQuality,"Round (Small, Aggregate)"
+1552,Lemon,isA,Fruit
+1553,Lemon,isA,Food
+1554,Lemon,hasQuality,Yellow
+1555,Lemon,hasQuality,Oval
+1556,Lime,isA,Fruit
+1557,Lime,isA,Food
+1558,Lime,hasQuality,Green
+1559,Lime,hasQuality,Oval (Small)
+1560,Kiwi,isA,Fruit
+1561,Kiwi,isA,Food
+1562,Kiwi,hasQuality,Brown
+1563,Kiwi,hasQuality,Oval
+1564,Papaya,isA,Fruit
+1565,Papaya,isA,Food
+1566,Papaya,hasQuality,Orange
+1567,Papaya,hasQuality,Oval
+1568,Coconut,isA,Fruit
+1569,Coconut,isA,Food
+1570,Coconut,hasQuality,Brown
+1571,Coconut,hasQuality,Round
+1572,Avocado,isA,Fruit
+1573,Avocado,isA,Food
+1574,Avocado,hasQuality,Green
+1575,Avocado,hasQuality,Pear-Shaped
+1576,Fig,isA,Fruit
+1577,Fig,isA,Food
+1578,Fig,hasQuality,Purple
+1579,Fig,hasQuality,Teardrop-Shaped
+1580,Pomegranate,isA,Fruit
+1581,Pomegranate,isA,Food
+1582,Pomegranate,hasQuality,Red
+1583,Pomegranate,hasQuality,Round
+1584,Plum,isA,Fruit
+1585,Plum,isA,Food
+1586,Plum,hasQuality,Purple
+1587,Plum,hasQuality,Round
+1588,Apricot,isA,Fruit
+1589,Apricot,isA,Food
+1590,Apricot,hasQuality,Orange
+1591,Apricot,hasQuality,Round (Small)
+1592,Cantaloupe,isA,Fruit
+1593,Cantaloupe,isA,Food
+1594,Cantaloupe,hasQuality,Tan
+1595,Cantaloupe,hasQuality,Round
+1596,Honeydew Melon,isA,Fruit
+1597,Honeydew Melon,isA,Food
+1598,Honeydew Melon,hasQuality,Green
+1599,Honeydew Melon,hasQuality,Round
+1600,Cranberry,isA,Fruit
+1601,Cranberry,isA,Food
+1602,Cranberry,hasQuality,Red
+1603,Cranberry,hasQuality,Round (Small)
+1604,Guava,isA,Fruit
+1605,Guava,isA,Food
+1606,Guava,hasQuality,Green
+1607,Guava,hasQuality,Oval
+1608,Dragon Fruit,isA,Fruit
+1609,Dragon Fruit,isA,Food
+1610,Dragon Fruit,hasQuality,Pink
+1611,Dragon Fruit,hasQuality,Oval
+1612,Passion Fruit,isA,Fruit
+1613,Passion Fruit,isA,Food
+1614,Passion Fruit,hasQuality,Purple
+1615,Passion Fruit,hasQuality,Round (Small)
+1616,Star Fruit,isA,Fruit
+1617,Star Fruit,isA,Food
+1618,Star Fruit,hasQuality,Yellow
+1619,Star Fruit,hasQuality,Star-Shaped
+1620,Tangerine,isA,Fruit
+1621,Tangerine,isA,Food
+1622,Tangerine,hasQuality,Orange
+1623,Tangerine,hasQuality,Round
+1624,Grapefruit,isA,Fruit
+1625,Grapefruit,isA,Food
+1626,Grapefruit,hasQuality,Pink
+1627,Grapefruit,hasQuality,Round
+1628,Date,isA,Fruit
+1629,Date,isA,Food
+1630,Date,hasQuality,Brown
+1631,Date,hasQuality,Oval (Elongated)
+1632,Lychee,isA,Fruit
+1633,Lychee,isA,Food
+1634,Lychee,hasQuality,Red
+1635,Lychee,hasQuality,Round (Small)
+1636,Persimmon,isA,Fruit
+1637,Persimmon,isA,Food
+1638,Persimmon,hasQuality,Orange
+1639,Persimmon,hasQuality,Round
+1640,Fruit,isA,Food
+1641,Carrot,isA,Vegetable
+1642,Carrot,isA,Food
+1643,Carrot,hasQuality,Orange
+1644,Carrot,hasQuality,Elongated (Cone-Shaped)
+1645,Potato,isA,Vegetable
+1646,Potato,isA,Food
+1647,Potato,hasQuality,Brown
+1648,Potato,hasQuality,Oval
+1649,Tomato,isA,Vegetable
+1650,Tomato,isA,Food
+1651,Tomato,hasQuality,Red
+1652,Tomato,hasQuality,Round
+1653,Broccoli,isA,Vegetable
+1654,Broccoli,isA,Food
+1655,Broccoli,hasQuality,Green
+1656,Broccoli,hasQuality,Tree-Shaped
+1657,Cucumber,isA,Vegetable
+1658,Cucumber,isA,Food
+1659,Cucumber,hasQuality,Green
+1660,Cucumber,hasQuality,Cylindrical
+1661,Pumpkin,isA,Vegetable
+1662,Pumpkin,isA,Food
+1663,Pumpkin,hasQuality,Orange
+1664,Pumpkin,hasQuality,Round
+1665,Corn,isA,Vegetable
+1666,Corn,isA,Food
+1667,Corn,hasQuality,Yellow
+1668,Corn,hasQuality,Cylindrical (Elongated)
+1669,Bell Pepper,isA,Vegetable
+1670,Bell Pepper,isA,Food
+1671,Bell Pepper,hasQuality,Red
+1672,Bell Pepper,hasQuality,Bell-Shaped
+1673,Onion,isA,Vegetable
+1674,Onion,isA,Food
+1675,Onion,hasQuality,White
+1676,Onion,hasQuality,Round
+1677,Garlic,isA,Vegetable
+1678,Garlic,isA,Food
+1679,Garlic,hasQuality,White
+1680,Garlic,hasQuality,Round (Bulb)
+1681,Eggplant,isA,Vegetable
+1682,Eggplant,isA,Food
+1683,Eggplant,hasQuality,Purple
+1684,Eggplant,hasQuality,Oval
+1685,Pea,isA,Vegetable
+1686,Pea,isA,Food
+1687,Pea,hasQuality,Green
+1688,Pea,hasQuality,Round (Small)
+1689,Lettuce,isA,Vegetable
+1690,Lettuce,isA,Food
+1691,Lettuce,hasQuality,Green
+1692,Lettuce,hasQuality,Round (Leafy)
+1693,Spinach,isA,Vegetable
+1694,Spinach,isA,Food
+1695,Spinach,hasQuality,Green
+1696,Spinach,hasQuality,Leafy
+1697,Cabbage,isA,Vegetable
+1698,Cabbage,isA,Food
+1699,Cabbage,hasQuality,Green
+1700,Cabbage,hasQuality,Round
+1701,Cauliflower,isA,Vegetable
+1702,Cauliflower,isA,Food
+1703,Cauliflower,hasQuality,White
+1704,Cauliflower,hasQuality,Round
+1705,Radish,isA,Vegetable
+1706,Radish,isA,Food
+1707,Radish,hasQuality,Red
+1708,Radish,hasQuality,Round (Small)
+1709,Beet,isA,Vegetable
+1710,Beet,isA,Food
+1711,Beet,hasQuality,Purple
+1712,Beet,hasQuality,Round
+1713,Zucchini,isA,Vegetable
+1714,Zucchini,isA,Food
+1715,Zucchini,hasQuality,Green
+1716,Zucchini,hasQuality,Cylindrical
+1717,Sweet Potato,isA,Vegetable
+1718,Sweet Potato,isA,Food
+1719,Sweet Potato,hasQuality,Orange
+1720,Sweet Potato,hasQuality,Oval
+1721,Celery,isA,Vegetable
+1722,Celery,isA,Food
+1723,Celery,hasQuality,Green
+1724,Celery,hasQuality,Elongated
+1725,Asparagus,isA,Vegetable
+1726,Asparagus,isA,Food
+1727,Asparagus,hasQuality,Green
+1728,Asparagus,hasQuality,Elongated
+1729,Artichoke,isA,Vegetable
+1730,Artichoke,isA,Food
+1731,Artichoke,hasQuality,Green
+1732,Artichoke,hasQuality,Round
+1733,Squash,isA,Vegetable
+1734,Squash,isA,Food
+1735,Squash,hasQuality,Yellow
+1736,Squash,hasQuality,Oval
+1737,Leek,isA,Vegetable
+1738,Leek,isA,Food
+1739,Leek,hasQuality,White
+1740,Leek,hasQuality,Elongated
+1741,Turnip,isA,Vegetable
+1742,Turnip,isA,Food
+1743,Turnip,hasQuality,Purple
+1744,Turnip,hasQuality,Round
+1745,Vegetable,isA,Food
+1746,Stop Sign,isA,Traffic Sign
+1747,Stop Sign,isA,Object
+1748,Stop Sign,hasQuality,Red
+1749,Stop Sign,hasQuality,Octagonal
+1750,Yield Sign,isA,Traffic Sign
+1751,Yield Sign,isA,Object
+1752,Yield Sign,hasQuality,Yellow
+1753,Yield Sign,hasQuality,Triangular
+1754,Traffic Cone,isA,Safety Equipment
+1755,Traffic Cone,isA,Object
+1756,Traffic Cone,hasQuality,Orange
+1757,Traffic Cone,hasQuality,Cone-Shaped
+1758,Basketball,isA,Sports Equipment
+1759,Basketball,isA,Object
+1760,Basketball,hasQuality,Orange
+1761,Basketball,hasQuality,Round (Sphere)
+1762,Tennis Ball,isA,Sports Equipment
+1763,Tennis Ball,isA,Object
+1764,Tennis Ball,hasQuality,Yellow-Green
+1765,Tennis Ball,hasQuality,Round (Sphere)
+1766,Baseball,isA,Sports Equipment
+1767,Baseball,isA,Object
+1768,Baseball,hasQuality,White
+1769,Baseball,hasQuality,Round (Sphere)
+1770,Golf Ball,isA,Sports Equipment
+1771,Golf Ball,isA,Object
+1772,Golf Ball,hasQuality,White
+1773,Golf Ball,hasQuality,Round (Sphere)
+1774,American Football,isA,Sports Equipment
+1775,American Football,isA,Object
+1776,American Football,hasQuality,Brown
+1777,American Football,hasQuality,Oval (Prolate Spheroid)
+1778,Volleyball,isA,Sports Equipment
+1779,Volleyball,isA,Object
+1780,Volleyball,hasQuality,White
+1781,Volleyball,hasQuality,Round (Sphere)
+1782,Hockey Puck,isA,Sports Equipment
+1783,Hockey Puck,isA,Object
+1784,Hockey Puck,hasQuality,Black
+1785,Hockey Puck,hasQuality,Cylindrical (Disk)
+1786,Chessboard,isA,Game Equipment
+1787,Chessboard,isA,Object
+1788,Chessboard,hasQuality,Black and White
+1789,Chessboard,hasQuality,Square
+1790,Domino,isA,Game Equipment
+1791,Domino,isA,Object
+1792,Domino,hasQuality,White
+1793,Domino,hasQuality,Rectangular
+1794,Dice,isA,Game Equipment
+1795,Dice,isA,Object
+1796,Dice,hasQuality,White
+1797,Dice,hasQuality,Cube-Shaped
+1798,Playing Card,isA,Game Equipment
+1799,Playing Card,isA,Object
+1800,Playing Card,hasQuality,Rectangular
+1801,Pencil,isA,Stationery
+1802,Pencil,isA,Object
+1803,Pencil,hasQuality,Yellow
+1804,Pencil,hasQuality,Cylindrical
+1805,Eraser,isA,Stationery
+1806,Eraser,isA,Object
+1807,Eraser,hasQuality,Pink
+1808,Eraser,hasQuality,Rectangular
+1809,Ruler,isA,Stationery
+1810,Ruler,isA,Object
+1811,Ruler,hasQuality,Rectangular
+1812,Envelope,isA,Stationery
+1813,Envelope,isA,Object
+1814,Envelope,hasQuality,White
+1815,Envelope,hasQuality,Rectangular
+1816,Book,isA,Stationery
+1817,Book,isA,Object
+1818,Book,hasQuality,Rectangular
+1819,Blackboard,isA,School Equipment
+1820,Blackboard,isA,Object
+1821,Blackboard,hasQuality,Black
+1822,Blackboard,hasQuality,Rectangular
+1823,Whiteboard,isA,School Equipment
+1824,Whiteboard,isA,Object
+1825,Whiteboard,hasQuality,White
+1826,Whiteboard,hasQuality,Rectangular
+1827,School Bus,isA,Vehicle
+1828,School Bus,isA,Object
+1829,School Bus,hasQuality,Yellow
+1830,School Bus,hasQuality,Rectangular (Box-Shaped)
+1831,Fire Truck,isA,Vehicle
+1832,Fire Truck,isA,Object
+1833,Fire Truck,hasQuality,Red
+1834,Fire Hydrant,isA,Safety Equipment
+1835,Fire Hydrant,isA,Object
+1836,Fire Hydrant,hasQuality,Red
+1837,Brick,isA,Building Material
+1838,Brick,isA,Object
+1839,Brick,hasQuality,Red
+1840,Brick,hasQuality,Rectangular
+1841,Snowflake,isA,Natural Object
+1842,Snowflake,isA,Object
+1843,Snowflake,hasQuality,White
+1844,Snowflake,hasQuality,Hexagonal
+1845,Honeycomb,isA,Natural Object
+1846,Honeycomb,isA,Object
+1847,Honeycomb,hasQuality,Yellow
+1848,Honeycomb,hasQuality,Hexagonal
+1849,Sun,isA,Celestial Body
+1850,Sun,isA,Object
+1851,Sun,hasQuality,Yellow
+1852,Sun,hasQuality,Round (Sphere)
+1853,Moon,isA,Celestial Body
+1854,Moon,isA,Object
+1855,Moon,hasQuality,Gray
+1856,Moon,hasQuality,Round (Sphere)
+1857,Vinyl Record,isA,Media
+1858,Vinyl Record,isA,Object
+1859,Vinyl Record,hasQuality,Black
+1860,Vinyl Record,hasQuality,Round (Disk)
+1861,Compact Disc,isA,Media
+1862,Compact Disc,isA,Object
+1863,Compact Disc,hasQuality,Silver
+1864,Compact Disc,hasQuality,Round (Disk)
+1865,Traffic Light,isA,Signal Equipment
+1866,Traffic Light,isA,Object
+1867,Traffic Light,hasQuality,Rectangular
+1868,Umbrella,isA,Household Item
+1869,Umbrella,isA,Object
+1870,Umbrella,hasQuality,Dome-Shaped
+1871,Clock (Analog),isA,Household Item
+1872,Clock (Analog),isA,Object
+1873,Clock (Analog),hasQuality,Round (Circular)
+1874,Mirror,isA,Household Item
+1875,Mirror,isA,Object
+1876,Mirror,hasQuality,Rectangular
+1877,Pillow,isA,Household Item
+1878,Pillow,isA,Object
+1879,Pillow,hasQuality,Rectangular
+1880,Ice Cream Cone,isA,Food Container
+1881,Ice Cream Cone,isA,Object
+1882,Ice Cream Cone,hasQuality,Tan
+1883,Ice Cream Cone,hasQuality,Cone-Shaped
+1884,Pizza,isA,Food
+1885,Pizza,isA,Object
+1886,Pizza,hasQuality,Round (Circular)
+1887,Pizza Slice,isA,Food
+1888,Pizza Slice,isA,Object
+1889,Pizza Slice,hasQuality,Triangular
+1890,Egg,isA,Food
+1891,Egg,isA,Object
+1892,Egg,hasQuality,White
+1893,Egg,hasQuality,Oval
+1894,Slice of Watermelon,isA,Food
+1895,Slice of Watermelon,isA,Object
+1896,Slice of Watermelon,hasQuality,Red and Green
+1897,Slice of Watermelon,hasQuality,Triangular
+1898,Rainbow,isA,Natural Object
+1899,Rainbow,isA,Object
+1900,Rainbow,hasQuality,Multicolored
+1901,Rainbow,hasQuality,Arc-Shaped
+1902,Building Material,isA,Object
+1903,Celestial Body,isA,Object
+1904,Food,isA,Object
+1905,Food Container,isA,Object
+1906,Game Equipment,isA,Object
+1907,Household Item,isA,Object
+1908,Media,isA,Object
+1909,Natural Object,isA,Object
+1910,Safety Equipment,isA,Object
+1911,School Equipment,isA,Object
+1912,Signal Equipment,isA,Object
+1913,Sports Equipment,isA,Object
+1914,Stationery,isA,Object
+1915,Traffic Sign,isA,Object
+1916,Vehicle,isA,Object
+1917,Traffic Barrel,isA,Safety Equipment
+1918,Traffic Barrel,isA,Object
+1919,Traffic Barrel,hasQuality,Orange
+1920,Traffic Barrel,hasQuality,Cylindrical
+1921,Life Preserver,isA,Safety Equipment
+1922,Life Preserver,isA,Object
+1923,Life Preserver,hasQuality,Orange
+1924,Life Preserver,hasQuality,Ring-Shaped
+1925,Manhole Cover,isA,Infrastructure
+1926,Manhole Cover,isA,Object
+1927,Manhole Cover,hasQuality,Gray
+1928,Manhole Cover,hasQuality,Round (Circular)
+1929,Tire,isA,Vehicle Part
+1930,Tire,isA,Object
+1931,Tire,hasQuality,Black
+1932,Tire,hasQuality,Round (Circular)
+1933,License Plate,isA,Vehicle Part
+1934,License Plate,isA,Object
+1935,License Plate,hasQuality,Rectangular
+1936,Piano Key,isA,Musical Instrument Part
+1937,Piano Key,isA,Object
+1938,Piano Key,hasQuality,Black and White
+1939,Piano Key,hasQuality,Rectangular
+1940,Drum,isA,Musical Instrument
+1941,Drum,isA,Object
+1942,Drum,hasQuality,Cylindrical
+1943,Recycling Bin,isA,Household Item
+1944,Recycling Bin,isA,Object
+1945,Recycling Bin,hasQuality,Blue
+1946,Recycling Bin,hasQuality,Cylindrical
+1947,Trash Can,isA,Household Item
+1948,Trash Can,isA,Object
+1949,Trash Can,hasQuality,Black
+1950,Basketball Hoop,isA,Sports Equipment
+1951,Basketball Hoop,isA,Object
+1952,Basketball Hoop,hasQuality,Orange
+1953,Basketball Hoop,hasQuality,Round (Circular)
+1954,Soccer Ball,isA,Sports Equipment
+1955,Soccer Ball,isA,Object
+1956,Soccer Ball,hasQuality,White
+1957,Soccer Ball,hasQuality,Round (Sphere)
+1958,Bowling Ball,isA,Sports Equipment
+1959,Bowling Ball,isA,Object
+1960,Bowling Ball,hasQuality,Black
+1961,Bowling Ball,hasQuality,Round (Sphere)
+1962,Frisbee,isA,Sports Equipment
+1963,Frisbee,isA,Object
+1964,Frisbee,hasQuality,Round (Disk)
+1965,Traffic Barrier,isA,Safety Equipment
+1966,Traffic Barrier,isA,Object
+1967,Traffic Barrier,hasQuality,Orange and White
+1968,Ice Cube Tray,isA,Kitchenware
+1969,Ice Cube Tray,isA,Object
+1970,Ice Cube Tray,hasQuality,Rectangular
+1971,Infrastructure,isA,Object
+1972,Kitchenware,isA,Object
+1973,Musical Instrument,isA,Object
+1974,Musical Instrument Part,isA,Object
+1975,Vehicle Part,isA,Object
+1976,Brussels Sprouts,isA,Vegetable
+1977,Brussels Sprouts,isA,Food
+1978,Brussels Sprouts,hasQuality,Green
+1979,Brussels Sprouts,hasQuality,Round (Small)
+1980,Okra,isA,Vegetable
+1981,Okra,isA,Food
+1982,Okra,hasQuality,Green
+1983,Okra,hasQuality,Elongated
+1984,Kale,isA,Vegetable
+1985,Kale,isA,Food
+1986,Kale,hasQuality,Green
+1987,Kale,hasQuality,Leafy
+1988,Bok Choy,isA,Vegetable
+1989,Bok Choy,isA,Food
+1990,Bok Choy,hasQuality,Green
+1991,Bok Choy,hasQuality,Leafy
+1992,Butternut Squash,isA,Vegetable
+1993,Butternut Squash,isA,Food
+1994,Butternut Squash,hasQuality,Tan
+1995,Butternut Squash,hasQuality,Elongated (Bulbous)
+1996,Parsnip,isA,Vegetable
+1997,Parsnip,isA,Food
+1998,Parsnip,hasQuality,Cream
+1999,Parsnip,hasQuality,Elongated (Cone-Shaped)

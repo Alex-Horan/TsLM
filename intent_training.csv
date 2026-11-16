@@ -1,0 +1,101 @@
+text,label
+why is the sky blue,EXPLAIN
+what makes the ocean salty,EXPLAIN
+ice floats on water for what reason,EXPLAIN
+the roman empire fell because of what,EXPLAIN
+"leaves turn orange and red in autumn, why",EXPLAIN
+what causes tides to rise and fall,EXPLAIN
+magnets pull on metal because of what force,EXPLAIN
+goosebumps happen for what reason,EXPLAIN
+what makes bread rise in the oven,EXPLAIN
+"stars appear to twinkle at night, what causes that",EXPLAIN
+world war one broke out for what reasons,EXPLAIN
+"caffeine keeps people awake, how come",EXPLAIN
+cats purr for what reason,EXPLAIN
+metal rusting is caused by what,EXPLAIN
+earthquakes are triggered by what,EXPLAIN
+"glass lets light pass through, why is that",EXPLAIN
+yawning when tired happens because of what,EXPLAIN
+"helium changes the pitch of your voice, why",EXPLAIN
+birds fly south in winter for what reason,EXPLAIN
+soap cuts through grease because of what,EXPLAIN
+what triggers a volcano to erupt,EXPLAIN
+"the sun looks red at sunset, what's the reason",EXPLAIN
+"some animals hibernate all winter, why is that",EXPLAIN
+"vinegar fizzes when mixed with baking soda, why",EXPLAIN
+what's the reason dreams happen during sleep,EXPLAIN
+tell me about apples,DESCRIBE
+"gravity, what exactly is that",DESCRIBE
+give me a definition of entropy,DESCRIBE
+"mitosis is a process, can you explain the concept",DESCRIBE
+paint me a picture of what a black hole is,DESCRIBE
+"photosynthesis in plants, what's going on there",DESCRIBE
+"a neuron in the brain, what is that",DESCRIBE
+"gold as a material, what are its properties",DESCRIBE
+"quantum mechanics is a branch of physics, describe it",DESCRIBE
+"an ecosystem, what does that term actually mean",DESCRIBE
+"picture a volcano for me, what does it look like",DESCRIBE
+"algorithms in computing, what are those",DESCRIBE
+"inflation as an economic term, define it",DESCRIBE
+"a solar eclipse, what happens during one",DESCRIBE
+"dna's building blocks, what are they made of",DESCRIBE
+"enzymes in the body, what are they",DESCRIBE
+"democracy as a system of government, what is it",DESCRIBE
+"coral reefs, tell me what those are",DESCRIBE
+"an atom's structure, break it down for me",DESCRIBE
+"artificial intelligence, give me a rundown",DESCRIBE
+"gross domestic product, what does that measure",DESCRIBE
+"glaciers, what are they exactly",DESCRIBE
+"tornadoes, describe what one looks like",DESCRIBE
+"osmosis, what's the definition",DESCRIBE
+"hurricanes, what are they",DESCRIBE
+paris is located where,LOCATION
+point me toward the eiffel tower,LOCATION
+mount everest sits in which country,LOCATION
+penguins live in what parts of the world,LOCATION
+is there a hospital nearby,LOCATION
+the great wall of china stretches through where,LOCATION
+the amazon rainforest covers which region,LOCATION
+silicon valley is situated where,LOCATION
+polar bears are found in which regions,LOCATION
+the sahara desert spans across where,LOCATION
+the statue of liberty stands where,LOCATION
+closest gas station to here,LOCATION
+kilimanjaro is a mountain located in which country,LOCATION
+kangaroos are native to what part of the world,LOCATION
+the grand canyon is carved into which state,LOCATION
+nearest pharmacy around here,LOCATION
+the taj mahal was built in which city,LOCATION
+dolphins are commonly found in which waters,LOCATION
+the dead sea borders which countries,LOCATION
+niagara falls sits between which two countries,LOCATION
+closest airport from this location,LOCATION
+pandas live in the wild in which country,LOCATION
+the colosseum still stands in which city,LOCATION
+antarctica is positioned where on the globe,LOCATION
+the nile river flows through which countries,LOCATION
+walk me through how a car engine runs,PROCESS
+"plants make their own food, what's the process",PROCESS
+explain the steps behind how the internet works,PROCESS
+what keeps airplanes up in the sky,PROCESS
+"vaccines protect the body, what's the mechanism",PROCESS
+"a fridge keeps things cold, what's happening inside it",PROCESS
+steps for baking bread from scratch,PROCESS
+"the heart pumps blood, what's the mechanism there",PROCESS
+"solar panels turn sunlight into electricity, how",PROCESS
+show me the steps to tie a bowline knot,PROCESS
+"washing machines get clothes clean, what's the process",PROCESS
+"bees produce honey, walk me through how",PROCESS
+steps to swap out a flat tire,PROCESS
+"wifi sends data through the air, how does that work",PROCESS
+"brewing coffee with a french press, what are the steps",PROCESS
+"batteries store energy, what's the process behind that",PROCESS
+"setting up a new email account, what are the steps",PROCESS
+"the water cycle moves water around the planet, explain how",PROCESS
+steps for starting a vegetable garden,PROCESS
+"microwaves heat food, what's actually happening",PROCESS
+"putting together flat pack furniture, what's the process",PROCESS
+"electric motors convert electricity into motion, how",PROCESS
+"installing python on a windows machine, what are the steps",PROCESS
+"digestion breaks down food, walk me through the process",PROCESS
+"folding a paper airplane, what are the steps",PROCESS
